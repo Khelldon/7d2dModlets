@@ -10,39 +10,18 @@
 
 
 <!-- 
-Khelldon - Bicycle Bell 
-Credit for this sound goes to http://soundbible.com/292-Bicycle-Bell-Ringing.html
+Khelldon - add the calls to the new sounds
 -->
 
-<set xpath="/vehicles/vehicle[@name='vehicleBicycle']/property[@name='hornSound']/@value">@modfolder:Sounds/bicycleHorn.wav</set>
+<set xpath="/vehicles/vehicle[@name='vehicleBicycle']/property[@name='hornSound']/@value">khelldonBikeBell</set>
 
-<!-- 
-Khelldon - Minibike Horn 
-Credit for this sound goes to http://soundbible.com/59-Ahooga-Car-Horn.html
--->
+<set xpath="/vehicles/vehicle[@name='vehicleMinibike']/property[@name='hornSound']/@value">khelldonMinibikeHorn</set>
 
-<set xpath="/vehicles/vehicle[@name='vehicleMinibike']/property[@name='hornSound']/@value">@modfolder:Sounds/minibikeHorn.wav</set>
+<set xpath="/vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='hornSound']/@value">khelldonMotorcycleHorn</set>
 
-<!--
-Khelldon - Motorcycle Horn 
-Credit for this sound goes to guitarguy1985 http://soundbible.com/1450-Air-Horn.html
--->
+<set xpath="/vehicles/vehicle[@name='vehicle4x4Truck']/property[@name='hornSound']/@value">khelldonTruckHorn</set>
 
-<set xpath="/vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='hornSound']/@value">@modfolder:Sounds/motorcycleHorn.wav</set>
-
-<!--
-Khelldon - Truck Horn 
-Credit for this sound goes to Daniel Simion http://soundbible.com/2192-Fire-Truck-Horn.html
--->
-
-<set xpath="/vehicles/vehicle[@name='vehicle4x4Truck']/property[@name='hornSound']/@value">@modfolder:Sounds/truckHorn.wav</set>
-
-<!-- 
-Khelldon - Gyrocopter Horn 
-Credit for this sound goes to Daniel Simion http://soundbible.com/2179-Dixie-Horn.html
--->
-
-<set xpath="/vehicles/vehicle[@name='vehicleGyrocopter']/property[@name='hornSound']/@value">@modfolder:Sounds/gyrocopterHorn.wav</set>
+<set xpath="/vehicles/vehicle[@name='vehicleGyrocopter']/property[@name='hornSound']/@value">khelldonGyrocopterHorn</set>
 
 
 
