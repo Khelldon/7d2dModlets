@@ -40,7 +40,7 @@ Idea by Stompy
 -->
 
 <!-- Set new tool harvest category -->
-<append xpath="/items/item[@name='meleeToolClawHammer']/effect_group[name='Base Effects']">
+<append xpath="/items/item[@name='meleeToolClawHammer']/effect_group[@name='Base Effects']">
 	<passive_effect name="HarvestCount" operation="base_set" value="1" tags="nailsHarvest"/>
 </append>
 

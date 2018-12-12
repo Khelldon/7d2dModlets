@@ -15,7 +15,7 @@ Khelldon - Let's add a few bent nails around and while we are at it, let's up th
 <append xpath="/lootcontainers/lootgroup[@name='junk']">
 	<item name="resourceNailBent" count="1,10"/>
 </append>
-<set xpath="/lootcontainers/lootgroup[@name='junk']/item[name='resourceNail']/@count">2,20</set>
+<set xpath="/lootcontainers/lootgroup[@name='junk']/item[@name='resourceNail']/@count">2,20</set>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
