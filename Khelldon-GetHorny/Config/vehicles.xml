@@ -14,35 +14,35 @@ Khelldon - Bicycle Bell
 Credit for this sound goes to http://soundbible.com/292-Bicycle-Bell-Ringing.html
 -->
 
-<set xpath="/vehicles/vehicles[@name='vehicleBicycle']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?bicycleHorn</set>
+<set xpath="/vehicles/vehicle[@name='vehicleBicycle']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?bicycleHorn</set>
 
 <!-- 
 Khelldon - Minibike Horn 
 Credit for this sound goes to http://soundbible.com/59-Ahooga-Car-Horn.html
 -->
 
-<set xpath="/vehicles/vehicles[@name='vehicleMinibike']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?minibikeHorn</set>
+<set xpath="/vehicles/vehicle[@name='vehicleMinibike']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?minibikeHorn</set>
 
 <!--
 Khelldon - Motorcycle Horn 
 Credit for this sound goes to guitarguy1985 http://soundbible.com/1450-Air-Horn.html
 -->
 
-<set xpath="/vehicles/vehicles[@name='vehicleMotorcycle']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?motorcycleHorn</set>
+<set xpath="/vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?motorcycleHorn</set>
 
 <!--
 Khelldon - Truck Horn 
 Credit for this sound goes to Daniel Simion http://soundbible.com/2192-Fire-Truck-Horn.html
 -->
 
-<set xpath="/vehicles/vehicles[@name='vehicle4x4Truck']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?truckHorn</set>
+<set xpath="/vehicles/vehicle[@name='vehicle4x4Truck']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?truckHorn</set>
 
 <!-- 
 Khelldon - Gyrocopter Horn 
 Credit for this sound goes to Daniel Simion http://soundbible.com/2179-Dixie-Horn.html
 -->
 
-<set xpath="/vehicles/vehicles[@name='vehicleGyrocopter']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?gyrocopterHorn</set>
+<set xpath="/vehicles/vehicle[@name='vehicleGyrocopter']/property[@name='hornSound']/@value">#@modfolder:Resources/khelldon-GetHornyAudio.unity3d?gyrocopterHorn</set>
 
 
 
