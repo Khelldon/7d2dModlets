@@ -1,4 +1,4 @@
-<configs>
+<Khelldon>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -13,6 +13,7 @@ This will change all vanilla recipes but will not take into account modded recip
 to add custom items add either of the following two examples
 "or (contains(@name, 'RecipeNameGoesHere'))" adds nails to the recipe
 "and not(contains(@name, 'RecipeNameGoesHere'))" Will not add nails to this recipe
+updated:wooden doors
 -->
 <append xpath="/recipes/recipe[
 starts-with(@name, 'wood')
@@ -21,6 +22,7 @@ or (contains(@name, 'cntCabinetBottom'))
 or (contains(@name, 'cntCupboardCabinetRedTopClosed'))
 or (contains(@name, 'cntWoodDesk01Closed'))
 or (contains(@name, 'cntSecureStorageChest'))
+or (contains(@name, 'secureDoorWooden'))
 or (contains(@name, 'endTable'))
 or (contains(@name, 'ladderWood'))
 or (contains(@name, 'window03Wood'))
@@ -35,11 +37,12 @@ and not(contains(@name, 'woodTable'))
 <!-- 
 Khelldon - Lets add a new recipe for Nails so we can turn our bent nails into regular nails
 Idea by Stompy 
+updated: Longer Craft time
 -->
 
 <append xpath="/recipes">
 
-<recipe name="resourceNail" count="1">
+<recipe name="resourceNail" count="1" craft_time="15">
 	<ingredient name="resourceNailBent" count="1"/>
 </recipe>
 
@@ -47,6 +50,17 @@ Idea by Stompy
 
 
 
+<!-- 
+Khelldon - Lets add a new recipe for the Crowbar
+-->
+
+<append xpath="/recipes">
+
+<recipe name="khelldonCrowbar" count="1" craft_area="workbench">
+	<ingredient name="resourceForgedSteel" count="15"/>
+</recipe>
+
+</append>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -54,4 +68,4 @@ Idea by Stompy
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-</configs>
+</Khelldon>
