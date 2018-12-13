@@ -348,6 +348,7 @@ Khelldon - Add a second Tier of wooden frames, these have glue
 	<property name="CanPickup" value="false"/>
 	<property name="Shape" value="New"/>
 	<property name="Model" value="cube_frame"/>
+	<property name="Texture" value="241"/>
 	<property name="Place" value="TowardsPlacerInverted"/>
 	<property class="UpgradeBlock">
 		<property name="ToBlock" value="woodBlock"/>
@@ -403,6 +404,7 @@ Khelldon - Add a second Tier of wooden frames, these have glue
 	<property name="CanPickup" value="false"/>
 	<property name="Shape" value="New"/>
 	<property name="Model" value="ramp_frame"/>
+	<property name="Texture" value="241"/>
 	<property name="Place" value="TowardsPlacerInverted"/>
 	<property class="UpgradeBlock">
 		<property name="ToBlock" value="woodRamp"/>
