@@ -346,6 +346,8 @@ Khelldon - Add a second Tier of wooden frames, these have glue
 	<property name="Extends" value="khelldonWoodFrameMaster"/>
 	<property name="RandomTintColor1" value="130,130,130"/>
 	<property name="CanPickup" value="false"/>
+	<property name="Mesh" value="opaque"/>
+	<property name="UseGlobalUV" value="Local"/>
 	<property name="Shape" value="New"/>
 	<property name="Model" value="cube_frame"/>
 	<property name="Texture" value="241"/>
@@ -402,6 +404,8 @@ Khelldon - Add a second Tier of wooden frames, these have glue
 	<property name="Extends" value="khelldonWoodFrameMaster"/>
 	<property name="RandomTintColor1" value="130,130,130"/>
 	<property name="CanPickup" value="false"/>
+	<property name="Mesh" value="opaque"/>
+	<property name="UseGlobalUV" value="Local"/>
 	<property name="Shape" value="New"/>
 	<property name="Model" value="ramp_frame"/>
 	<property name="Texture" value="241"/>
