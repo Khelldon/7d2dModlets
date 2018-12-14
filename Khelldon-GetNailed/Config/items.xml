@@ -66,7 +66,7 @@ khelldonCrowbarDesc,items,Tool,KgNone,"Great for disassembling mechanical device
 	<property name="Tags" value="blunt,melee,light,tool,perkStayDown,perkSalvageOperations"/>
 	<property name="DisplayType" value="meleeRepairTool"/>
 	<property name="HoldType" value="29"/>
-	<property name="Meshfile" value="#@modfolder:Resources/khelldonCrowbar.unity3d?itemCrowbarPrefab"/>
+	<property name="Meshfile" value="#@modfolder:Resources/khelldonCrowbar.unity3d?khelldonCrowbarPrefab"/>
 	<property name="Material" value="Mmetal"/>
 	<property name="RepairTools" value="resourceForgedSteel"/>
 	<property name="DegradationBreaksAfter" value="false"/>
