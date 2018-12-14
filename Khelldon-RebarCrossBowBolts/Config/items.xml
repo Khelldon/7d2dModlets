@@ -72,6 +72,14 @@ khelldonRebarBoltHotDesc,items,Ammo,KgNone,"Hot Rebar bolts are the same as norm
 	<property name="HoldType" value="45"/>
 	<property name="HandMeshfile" value="Items/Misc/sackPrefab"/>
 	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property class="Action1">
+		<property name="Class" value="Projectile"/>
+		<property name="Explosion.ParticleIndex" value="0"/>
+		<property name="Gravity" value="-12.5"/>
+		<property name="FlyTime" value="0"/>
+		<property name="LifeTime" value="12"/>
+		<property name="Buff" value="buffBurningFlamingArrow"/>
+	</property>
 	<property class="Attributes">
 		<property name="GetQualityFromWeapon" value="true"/>
 	</property>
@@ -82,10 +90,7 @@ khelldonRebarBoltHotDesc,items,Ammo,KgNone,"Hot Rebar bolts are the same as norm
 		<passive_effect name="BlockDamage" operation="perc_set" value="0" tags="earth,metal,cloth"/>
 		<passive_effect name="ProjectileVelocity" operation="base_set" value="35"/>
 		<passive_effect name="ProjectileStickChance" operation="perc_set" value="0" tags="glass"/>
-	</effect_group>
-	<effect_group tiered="false">
-		<triggered_effect name="onProjectileImpact" action="AddBuff" target="positionAOE" range="4" buff="buffBurningMolotov"/>
-		<display_value name="ExRadius" value="4" />
+		<passive_effect name="BuffProcChance" operation="base_set" value="1" tags="buffBurningFlamingArrow"/>
 	</effect_group>
 </item>
 
