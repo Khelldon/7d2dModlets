@@ -16,7 +16,7 @@ Khelldon - Let's add the random starter loot and the container info to call to i
 <lootgroup name="khelldonStarterCrateContents" count="all">
 	<item name="armorMiningHelmet" count="1"/>
 	<item group="weaponsMelee" count="1"/>
-	<item group="Tools" count="3"/>
+	<item group="tools" count="3"/>
 	<item group="Armor" count="4"/>
 	<item group="airdropMedicine" count="2"/>
 	<item group="cannedfood" count="2"/>
