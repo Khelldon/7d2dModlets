@@ -21,6 +21,7 @@
 			<property name="AvatarController" value="AvatarZombieUMAController"/>
 			<property name="PhysicsBody" value="zombieUMA"/>
 			<property name="HasDeathAnim" value="false"/>
+            <property name="HasRagdoll" value="false"/>
 		  </entity_class>
 		  <entity_class name="badZombieFemaleUMA" extends="badZombieUMA">
 			<property name="Archetype" value="ZombieFemaleUMA"/>
