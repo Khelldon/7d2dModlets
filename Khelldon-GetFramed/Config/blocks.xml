@@ -58,7 +58,7 @@ Khelldon - Change default wooden frames upgrade to tier 2 frames
 Khelldon - Change default wooden frames upgrade to require nails
 -->
 
-<set xpath="/blocks/block[starts-with(@name, 'woodFrame')]/property[@class='UpgradeBlock']/property[@name='Item']/@value">resourceNail</set>
+<set xpath="/blocks/block[@name, 'woodFrameMaster']/property[@class='UpgradeBlock']/property[@name='Item']/@value">resourceNail</set>
 
 
 
