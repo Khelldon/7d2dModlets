@@ -124,19 +124,6 @@
 			<entity name="zombieBurnt"/>
 			<entity name="zombieFarmer"/>
 			<entity name="zombieStripper"/>
-			<entity name="badZombieBoe_Rager"/>
-			<entity name="badZombieJoe_Rager"/>
-			<entity name="badZombieYo_Rager"/>
-			<entity name="badZombieSteve_Rager"/>
-			<entity name="badZombieArlene_Rager"/>
-			<entity name="badZombieDarlene_Rager"/>
-			<entity name="badZombieMarlene_Rager"/>
-			<entity name="badZombieNurse_Rager"/>
-			<entity name="badZombieMaleHazmat_Rager"/>
-			<entity name="badZombieUtilityWorker_Rager"/>
-			<entity name="badZombieSkateboarder_Rager"/>
-			<entity name="badZombieCheerleader_Rager"/>
-			<entity name="badZombieOldTimer_Rager"/>
 			<entity name="badZombieJethro"/>
 			<entity name="badZombieSeryph"/>
 			<entity name="badZombieSeryphSnow"/>
@@ -187,81 +174,6 @@
 			<entity name="bkSanta"/>
 			<entity name="sanZombieBodyBuilder"/>
 			<entity name="sanZombieBanditJuggernaut"/>
-			<entity name="badZombieAiden_Rager"/>
-			<entity name="badZombieBob_Rager"/>
-			<entity name="badZombieCaitlin_Rager"/>
-			<entity name="badZombieCallie_Rager"/>
-			<entity name="badZombieChang_Rager"/>
-			<entity name="badZombieCharlotte_Rager"/>
-			<entity name="badZombieClint_Rager"/>
-			<entity name="badZombieEmma_Rager"/>
-			<entity name="badZombieGabrielle_Rager"/>
-			<entity name="badZombieGrace_Rager"/>
-			<entity name="badZombieHank_Rager"/>
-			<entity name="badZombieHelen_Rager"/>
-			<entity name="badZombieHugh_Rager"/>
-			<entity name="badZombieJack_Rager"/>
-			<entity name="badZombieJeff_Rager"/>
-			<entity name="badZombieJimmy_Rager"/>
-			<entity name="badZombieJoel_Rager"/>
-			<entity name="badZombieMaria_Rager"/>
-			<entity name="badZombieMercura_Rager"/>
-			<entity name="badZombieMiguel_Rager"/>
-			<entity name="badZombieOfficeGirl_Rager"/>
-			<entity name="badZombieRayah_Rager"/>
-			<entity name="badZombieRekt_Rager"/>
-			<entity name="badZombieVince_Rager"/>
-			<entity name="badZombieWillie_Rager"/>
-			<entity name="badZombieBaby_Rager"/>
-			<entity name="valZombieClarice_Rager"/>
-			<entity name="valZombieJane_Rager"/>
-			<entity name="valZombieLibrarian_Rager"/>
-			<entity name="valZombieSurvivorFemale_Rager"/>
-			<entity name="valZombieVoodooFemale_Rager"/>
-			<entity name="valZombieVoodooMale_Rager"/>
-			<entity name="valZombieDan_Rager"/>
-			<entity name="valZombieSurvivorMale_Rager"/>
-			<entity name="valZombieKenny_Rager"/>
-			<entity name="valZombieRavager_Rager"/>
-			<entity name="valZombieNerd_Rager"/>
-			<entity name="valZombieInmate_Rager"/>
-			<entity name="valZombieInmateBlack_Rager"/>
-			<entity name="valZombieChildFemale_Rager"/>
-			<entity name="valZombieChildMale_Rager"/>
-			<entity name="valZombieRanger_Rager"/>
-			<entity name="valZombieScorchedRusher_Rager"/>
-			<entity name="gupZombieMartha_Rager"/>
-			<entity name="gupZombieSally_Rager"/>
-			<entity name="gupZombieSunStroked_Rager"/>
-			<entity name="sanZombiePunk_Rager"/>
-			<entity name="sanZombieRioter_Rager"/>
-			<entity name="sanZombieRocker_Rager"/>
-			<entity name="sanZombieFemaleRocker_Rager"/>
-			<entity name="sanZombieHermit_Rager"/>
-			<entity name="sanZombieFrank_Rager"/>
-			<entity name="sanZombieBikerChick_Rager"/>
-			<entity name="sanZombieInfectedSurvivor_Rager"/>
-			<entity name="sanZombieInfectedLady_Rager"/>
-			<entity name="sanZombieNude_Rager"/>
-			<entity name="sanZombiePrisoner_Rager"/>
-			<entity name="sanZombieDriver_Rager"/>
-			<entity name="sanZombieFiend_Rager"/>
-			<entity name="sanZombieBanditSharpshooter_Rager"/>
-			<entity name="sanZombieHunterSven_Rager"/>
-			<entity name="sanZombiePsycho_Rager"/>
-			<entity name="sanZombieKim_Rager"/>
-			<entity name="sanZombieVagrant_Rager"/>
-			<entity name="sanZombieBanditSavage_Rager"/>
-			<entity name="sanZombieBanditSentry_Rager"/>
-			<entity name="sanZombieMitchHazmat_Rager"/>
-			<entity name="sanZombieMarkHazmat_Rager"/>
-			<entity name="sanZombieClaireHazmat_Rager"/>
-			<entity name="sanZombieSueHazmat_Rager"/>
-			<entity name="sanZombieOldLady_Rager"/>
-			<entity name="sanZombieOldMan_Rager"/>
-			<entity name="sanZombieEvilGranny_Rager"/>
-			<entity name="sanZombieSecurityGuard_Rager"/>
-			<entity name="sanZombieFrozen_Rager"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesBCTier04">
 			<entity name="zombieFemaleFatFeral"/>
@@ -270,54 +182,15 @@
 			<entity name="zombieFatHawaiian"/>
 			<entity name="zombieFarmerFeral"/>
 			<entity name="zombieStripperFeral"/>
-			<entity name="badZombieMoe_Rager"/>
-			<entity name="badZombieSnow_Rager"/>
-			<entity name="badZombieSpider_Rager"/>
-			<entity name="badZombieBurnt_Rager"/>
-			<entity name="badZombieStripper_Rager"/>
-			<entity name="badZombieFarmer_Rager"/>
 			<entity name="badZombieMord"/>
-			<entity name="sanZombieExperiment"/>
-			<entity name="badZombieJethro_Rager"/>
-			<entity name="badZombieSeryph_Rager"/>
-			<entity name="badZombieSeryphSnow_Rager"/>
-			<entity name="valZombieBigBitch_Rager"/>
-			<entity name="valZombieLumberjack_Rager"/>
-			<entity name="valZombieTrucker_Rager"/>
-			<entity name="valZombieCharred_Rager"/>
-			<entity name="sanZombieCpl_Rager"/>
-			<entity name="sanZombieHunter_Rager"/>
-			<entity name="sanZombieBanditKiller_Rager"/>
-			<entity name="sanZombieBloodmoon_Rager"/>
-			<entity name="sanZombieCannibalFemale_Rager"/>
-			<entity name="sanZombieCannibalMale_Rager"/>
-			<entity name="sanZombieFreak_Rager"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesBCTier05">
 			<entity name="zombieSnowFeral"/>
 			<entity name="zombieSoldierFeral"/>
-			<entity name="badZombieSoldier_Rager"/>
-			<entity name="badZombieBiker_Rager"/>
 			<entity name="badZombieBabyBoomer"/>
 			<entity name="valZombieRavagerSpider"/>
 			<entity name="gupZombieClimber"/>
 			<entity name="sanZombieClown"/>
-			<entity name="badZombieBolivar_Rager"/>
-			<entity name="badZombieCur_Rager"/>
-			<entity name="badZombieSWATMale_Rager"/>
-			<entity name="badZombieSWATFemale_Rager"/>
-			<entity name="valZombieRaveReaper_Rager"/>
-			<entity name="badZombieStripperMole_Rager"/>
-			<entity name="valZombieRegen_Rager"/>
-			<entity name="gupZombieBouncer_Rager"/>
-			<entity name="gupZombieSnowQueen_Rager"/>
-			<entity name="sanZombieTrailerPark_Rager"/>
-			<entity name="sanZombieBanditRaider_Rager"/>
-			<entity name="sanZombieReaper_Rager"/>
-			<entity name="sanZombieBanditLooter_Rager"/>
-			<entity name="bkSanta_Rager"/>
-			<entity name="sanZombieBodyBuilder_Rager"/>
-			<entity name="sanZombieBanditJuggernaut_Rager"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesBCTier06">
 			<entity name="zombieFatHawaiianFeral"/>
@@ -330,24 +203,24 @@
 			<entity name="zombieWightFeral"/>
 			<entity name="valZombieBrute"/>
 			<entity name="valZombieBruteBoss"/>
-			<entity name="badZombieBabyBoomer_Rager"/>
-			<entity name="valZombieRavagerSpider_Rager"/>
-			<entity name="gupZombieClimber_Rager"/>
-			<entity name="sanZombieClown_Rager"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesBCTier08">
 			<entity name="zombieFatCopFeral"/>
-			<entity name="badZombieWarlord_Rager"/>
-			<entity name="badZombieSuicideMole_Rager"/>
-			<entity name="gupZombieBiff_Rager"/>
+			<entity name="zombieWightFeral"/>
+			<entity name="valZombieBrute"/>
+			<entity name="valZombieBruteBoss"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesBCTier09">
-			<entity name="valZombieBrute_Rager"/>
-			<entity name="valZombieBruteBoss_Rager"/>
+			<entity name="zombieFatCopFeral"/>
+			<entity name="zombieWightFeral"/>
+			<entity name="valZombieBrute"/>
+			<entity name="valZombieBruteBoss"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesBCTier10">
-			<entity name="valZombieBrute_Rager"/>
-			<entity name="valZombieBruteBoss_Rager"/>
+			<entity name="zombieFatCopFeral"/>
+			<entity name="zombieWightFeral"/>
+			<entity name="valZombieBrute"/>
+			<entity name="valZombieBruteBoss"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesTierGroup01">
 			<entity name="zombieBoe"/>
@@ -450,19 +323,6 @@
 			<entity name="zombieBurnt" prob="0.5"/>
 			<entity name="zombieFarmer" prob="0.5"/>
 			<entity name="zombieStripper" prob="0.5"/>
-			<entity name="badZombieBoe_Rager" prob="0.5"/>
-			<entity name="badZombieJoe_Rager" prob="0.5"/>
-			<entity name="badZombieYo_Rager" prob="0.5"/>
-			<entity name="badZombieSteve_Rager" prob="0.5"/>
-			<entity name="badZombieArlene_Rager" prob="0.5"/>
-			<entity name="badZombieDarlene_Rager" prob="0.5"/>
-			<entity name="badZombieMarlene_Rager" prob="0.5"/>
-			<entity name="badZombieNurse_Rager" prob="0.5"/>
-			<entity name="badZombieMaleHazmat_Rager" prob="0.5"/>
-			<entity name="badZombieUtilityWorker_Rager" prob="0.5"/>
-			<entity name="badZombieSkateboarder_Rager" prob="0.5"/>
-			<entity name="badZombieCheerleader_Rager" prob="0.5"/>
-			<entity name="badZombieOldTimer_Rager" prob="0.5"/>
 			<entity name="badZombieJethro" prob="0.5"/>
 			<entity name="badZombieSeryph" prob="0.5"/>
 			<entity name="badZombieSeryphSnow" prob="0.5"/>
@@ -511,81 +371,6 @@
 			<entity name="bkSanta" prob="0.15"/>
 			<entity name="sanZombieBodyBuilder" prob="0.15"/>
 			<entity name="sanZombieBanditJuggernaut" prob="0.15"/>
-			<entity name="badZombieAiden_Rager" prob="0.15"/>
-			<entity name="badZombieBob_Rager" prob="0.15"/>
-			<entity name="badZombieCaitlin_Rager" prob="0.15"/>
-			<entity name="badZombieCallie_Rager" prob="0.15"/>
-			<entity name="badZombieChang_Rager" prob="0.15"/>
-			<entity name="badZombieCharlotte_Rager" prob="0.15"/>
-			<entity name="badZombieClint_Rager" prob="0.15"/>
-			<entity name="badZombieEmma_Rager" prob="0.15"/>
-			<entity name="badZombieGabrielle_Rager" prob="0.15"/>
-			<entity name="badZombieGrace_Rager" prob="0.15"/>
-			<entity name="badZombieHank_Rager" prob="0.15"/>
-			<entity name="badZombieHelen_Rager" prob="0.15"/>
-			<entity name="badZombieHugh_Rager" prob="0.15"/>
-			<entity name="badZombieJack_Rager" prob="0.15"/>
-			<entity name="badZombieJeff_Rager" prob="0.15"/>
-			<entity name="badZombieJimmy_Rager" prob="0.15"/>
-			<entity name="badZombieJoel_Rager" prob="0.15"/>
-			<entity name="badZombieMaria_Rager" prob="0.15"/>
-			<entity name="badZombieMercura_Rager" prob="0.15"/>
-			<entity name="badZombieMiguel_Rager" prob="0.15"/>
-			<entity name="badZombieOfficeGirl_Rager" prob="0.15"/>
-			<entity name="badZombieRayah_Rager" prob="0.15"/>
-			<entity name="badZombieRekt_Rager" prob="0.15"/>
-			<entity name="badZombieVince_Rager" prob="0.15"/>
-			<entity name="badZombieWillie_Rager" prob="0.15"/>
-			<entity name="badZombieBaby_Rager" prob="0.15"/>
-			<entity name="valZombieClarice_Rager" prob="0.15"/>
-			<entity name="valZombieJane_Rager" prob="0.15"/>
-			<entity name="valZombieLibrarian_Rager" prob="0.15"/>
-			<entity name="valZombieSurvivorFemale_Rager" prob="0.15"/>
-			<entity name="valZombieVoodooFemale_Rager" prob="0.15"/>
-			<entity name="valZombieVoodooMale_Rager" prob="0.15"/>
-			<entity name="valZombieDan_Rager" prob="0.15"/>
-			<entity name="valZombieSurvivorMale_Rager" prob="0.15"/>
-			<entity name="valZombieKenny_Rager" prob="0.15"/>
-			<entity name="valZombieRavager_Rager" prob="0.15"/>
-			<entity name="valZombieNerd_Rager" prob="0.15"/>
-			<entity name="valZombieInmate_Rager" prob="0.15"/>
-			<entity name="valZombieInmateBlack_Rager" prob="0.15"/>
-			<entity name="valZombieChildFemale_Rager" prob="0.15"/>
-			<entity name="valZombieChildMale_Rager" prob="0.15"/>
-			<entity name="valZombieRanger_Rager" prob="0.15"/>
-			<entity name="valZombieScorchedRusher_Rager" prob="0.15"/>
-			<entity name="gupZombieMartha_Rager" prob="0.15"/>
-			<entity name="gupZombieSally_Rager" prob="0.15"/>
-			<entity name="gupZombieSunStroked_Rager" prob="0.15"/>
-			<entity name="sanZombiePunk_Rager" prob="0.15"/>
-			<entity name="sanZombieRioter_Rager" prob="0.15"/>
-			<entity name="sanZombieRocker_Rager" prob="0.15"/>
-			<entity name="sanZombieFemaleRocker_Rager" prob="0.15"/>
-			<entity name="sanZombieHermit_Rager" prob="0.15"/>
-			<entity name="sanZombieFrank_Rager" prob="0.15"/>
-			<entity name="sanZombieBikerChick_Rager" prob="0.15"/>
-			<entity name="sanZombieInfectedSurvivor_Rager" prob="0.15"/>
-			<entity name="sanZombieInfectedLady_Rager" prob="0.15"/>
-			<entity name="sanZombieNude_Rager" prob="0.15"/>
-			<entity name="sanZombiePrisoner_Rager" prob="0.15"/>
-			<entity name="sanZombieDriver_Rager" prob="0.15"/>
-			<entity name="sanZombieFiend_Rager" prob="0.15"/>
-			<entity name="sanZombieBanditSharpshooter_Rager" prob="0.15"/>
-			<entity name="sanZombieHunterSven_Rager" prob="0.15"/>
-			<entity name="sanZombiePsycho_Rager" prob="0.15"/>
-			<entity name="sanZombieKim_Rager" prob="0.15"/>
-			<entity name="sanZombieVagrant_Rager" prob="0.15"/>
-			<entity name="sanZombieBanditSavage_Rager" prob="0.15"/>
-			<entity name="sanZombieBanditSentry_Rager" prob="0.15"/>
-			<entity name="sanZombieMitchHazmat_Rager" prob="0.15"/>
-			<entity name="sanZombieMarkHazmat_Rager" prob="0.15"/>
-			<entity name="sanZombieClaireHazmat_Rager" prob="0.15"/>
-			<entity name="sanZombieSueHazmat_Rager" prob="0.15"/>
-			<entity name="sanZombieOldLady_Rager" prob="0.15"/>
-			<entity name="sanZombieOldMan_Rager" prob="0.15"/>
-			<entity name="sanZombieEvilGranny_Rager" prob="0.15"/>
-			<entity name="sanZombieSecurityGuard_Rager" prob="0.15"/>
-			<entity name="sanZombieFrozen_Rager" prob="0.15"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesTierGroup02">
 			<entity name="zombieBoe" prob="0.65"/>
@@ -688,19 +473,6 @@
 			<entity name="zombieBurnt" prob="0.75"/>
 			<entity name="zombieFarmer" prob="0.75"/>
 			<entity name="zombieStripper" prob="0.75"/>
-			<entity name="badZombieBoe_Rager" prob="0.75"/>
-			<entity name="badZombieJoe_Rager" prob="0.75"/>
-			<entity name="badZombieYo_Rager" prob="0.75"/>
-			<entity name="badZombieSteve_Rager" prob="0.75"/>
-			<entity name="badZombieArlene_Rager" prob="0.75"/>
-			<entity name="badZombieDarlene_Rager" prob="0.75"/>
-			<entity name="badZombieMarlene_Rager" prob="0.75"/>
-			<entity name="badZombieNurse_Rager" prob="0.75"/>
-			<entity name="badZombieMaleHazmat_Rager" prob="0.75"/>
-			<entity name="badZombieUtilityWorker_Rager" prob="0.75"/>
-			<entity name="badZombieSkateboarder_Rager" prob="0.75"/>
-			<entity name="badZombieCheerleader_Rager" prob="0.75"/>
-			<entity name="badZombieOldTimer_Rager" prob="0.75"/>
 			<entity name="badZombieJethro" prob="0.75"/>
 			<entity name="badZombieSeryph" prob="0.75"/>
 			<entity name="badZombieSeryphSnow" prob="0.75"/>
@@ -749,109 +521,6 @@
 			<entity name="bkSanta" prob="0.35"/>
 			<entity name="sanZombieBodyBuilder" prob="0.35"/>
 			<entity name="sanZombieBanditJuggernaut" prob="0.35"/>
-			<entity name="badZombieAiden_Rager" prob="0.35"/>
-			<entity name="badZombieBob_Rager" prob="0.35"/>
-			<entity name="badZombieCaitlin_Rager" prob="0.35"/>
-			<entity name="badZombieCallie_Rager" prob="0.35"/>
-			<entity name="badZombieChang_Rager" prob="0.35"/>
-			<entity name="badZombieCharlotte_Rager" prob="0.35"/>
-			<entity name="badZombieClint_Rager" prob="0.35"/>
-			<entity name="badZombieEmma_Rager" prob="0.35"/>
-			<entity name="badZombieGabrielle_Rager" prob="0.35"/>
-			<entity name="badZombieGrace_Rager" prob="0.35"/>
-			<entity name="badZombieHank_Rager" prob="0.35"/>
-			<entity name="badZombieHelen_Rager" prob="0.35"/>
-			<entity name="badZombieHugh_Rager" prob="0.35"/>
-			<entity name="badZombieJack_Rager" prob="0.35"/>
-			<entity name="badZombieJeff_Rager" prob="0.35"/>
-			<entity name="badZombieJimmy_Rager" prob="0.35"/>
-			<entity name="badZombieJoel_Rager" prob="0.35"/>
-			<entity name="badZombieMaria_Rager" prob="0.35"/>
-			<entity name="badZombieMercura_Rager" prob="0.35"/>
-			<entity name="badZombieMiguel_Rager" prob="0.35"/>
-			<entity name="badZombieOfficeGirl_Rager" prob="0.35"/>
-			<entity name="badZombieRayah_Rager" prob="0.35"/>
-			<entity name="badZombieRekt_Rager" prob="0.35"/>
-			<entity name="badZombieVince_Rager" prob="0.35"/>
-			<entity name="badZombieWillie_Rager" prob="0.35"/>
-			<entity name="badZombieBaby_Rager" prob="0.35"/>
-			<entity name="valZombieClarice_Rager" prob="0.35"/>
-			<entity name="valZombieJane_Rager" prob="0.35"/>
-			<entity name="valZombieLibrarian_Rager" prob="0.35"/>
-			<entity name="valZombieSurvivorFemale_Rager" prob="0.35"/>
-			<entity name="valZombieVoodooFemale_Rager" prob="0.35"/>
-			<entity name="valZombieVoodooMale_Rager" prob="0.35"/>
-			<entity name="valZombieDan_Rager" prob="0.35"/>
-			<entity name="valZombieSurvivorMale_Rager" prob="0.35"/>
-			<entity name="valZombieKenny_Rager" prob="0.35"/>
-			<entity name="valZombieRavager_Rager" prob="0.35"/>
-			<entity name="valZombieNerd_Rager" prob="0.35"/>
-			<entity name="valZombieInmate_Rager" prob="0.35"/>
-			<entity name="valZombieInmateBlack_Rager" prob="0.35"/>
-			<entity name="valZombieChildFemale_Rager" prob="0.35"/>
-			<entity name="valZombieChildMale_Rager" prob="0.35"/>
-			<entity name="valZombieRanger_Rager" prob="0.35"/>
-			<entity name="valZombieScorchedRusher_Rager" prob="0.35"/>
-			<entity name="gupZombieMartha_Rager" prob="0.35"/>
-			<entity name="gupZombieSally_Rager" prob="0.35"/>
-			<entity name="gupZombieSunStroked_Rager" prob="0.35"/>
-			<entity name="sanZombiePunk_Rager" prob="0.35"/>
-			<entity name="sanZombieRioter_Rager" prob="0.35"/>
-			<entity name="sanZombieRocker_Rager" prob="0.35"/>
-			<entity name="sanZombieFemaleRocker_Rager" prob="0.35"/>
-			<entity name="sanZombieHermit_Rager" prob="0.35"/>
-			<entity name="sanZombieFrank_Rager" prob="0.35"/>
-			<entity name="sanZombieBikerChick_Rager" prob="0.35"/>
-			<entity name="sanZombieInfectedSurvivor_Rager" prob="0.35"/>
-			<entity name="sanZombieInfectedLady_Rager" prob="0.35"/>
-			<entity name="sanZombieNude_Rager" prob="0.35"/>
-			<entity name="sanZombiePrisoner_Rager" prob="0.35"/>
-			<entity name="sanZombieDriver_Rager" prob="0.35"/>
-			<entity name="sanZombieFiend_Rager" prob="0.35"/>
-			<entity name="sanZombieBanditSharpshooter_Rager" prob="0.35"/>
-			<entity name="sanZombieHunterSven_Rager" prob="0.35"/>
-			<entity name="sanZombiePsycho_Rager" prob="0.35"/>
-			<entity name="sanZombieKim_Rager" prob="0.35"/>
-			<entity name="sanZombieVagrant_Rager" prob="0.35"/>
-			<entity name="sanZombieBanditSavage_Rager" prob="0.35"/>
-			<entity name="sanZombieBanditSentry_Rager" prob="0.35"/>
-			<entity name="sanZombieMitchHazmat_Rager" prob="0.35"/>
-			<entity name="sanZombieMarkHazmat_Rager" prob="0.35"/>
-			<entity name="sanZombieClaireHazmat_Rager" prob="0.35"/>
-			<entity name="sanZombieSueHazmat_Rager" prob="0.35"/>
-			<entity name="sanZombieOldLady_Rager" prob="0.35"/>
-			<entity name="sanZombieOldMan_Rager" prob="0.35"/>
-			<entity name="sanZombieEvilGranny_Rager" prob="0.35"/>
-			<entity name="sanZombieSecurityGuard_Rager" prob="0.35"/>
-			<entity name="sanZombieFrozen_Rager" prob="0.35"/>
-			<entity name="zombieFemaleFatFeral" prob="0.15"/>
-			<entity name="zombieMoeFeral" prob="0.15"/>
-			<entity name="zombieSpiderFeral" prob="0.15"/>
-			<entity name="zombieFatHawaiian" prob="0.15"/>
-			<entity name="zombieFarmerFeral" prob="0.15"/>
-			<entity name="zombieStripperFeral" prob="0.15"/>
-			<entity name="badZombieMoe_Rager" prob="0.15"/>
-			<entity name="badZombieSnow_Rager" prob="0.15"/>
-			<entity name="badZombieSpider_Rager" prob="0.15"/>
-			<entity name="badZombieBurnt_Rager" prob="0.15"/>
-			<entity name="badZombieStripper_Rager" prob="0.15"/>
-			<entity name="badZombieFarmer_Rager" prob="0.15"/>
-			<entity name="badZombieMord" prob="0.15"/>
-			<entity name="sanZombieExperiment" prob="0.15"/>
-			<entity name="badZombieJethro_Rager" prob="0.15"/>
-			<entity name="badZombieSeryph_Rager" prob="0.15"/>
-			<entity name="badZombieSeryphSnow_Rager" prob="0.15"/>
-			<entity name="valZombieBigBitch_Rager" prob="0.15"/>
-			<entity name="valZombieLumberjack_Rager" prob="0.15"/>
-			<entity name="valZombieTrucker_Rager" prob="0.15"/>
-			<entity name="valZombieCharred_Rager" prob="0.15"/>
-			<entity name="sanZombieCpl_Rager" prob="0.15"/>
-			<entity name="sanZombieHunter_Rager" prob="0.15"/>
-			<entity name="sanZombieBanditKiller_Rager" prob="0.15"/>
-			<entity name="sanZombieBloodmoon_Rager" prob="0.15"/>
-			<entity name="sanZombieCannibalFemale_Rager" prob="0.15"/>
-			<entity name="sanZombieCannibalMale_Rager" prob="0.15"/>
-			<entity name="sanZombieFreak_Rager" prob="0.15"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesTierGroup03">
 			<entity name="zombieBoe" prob="0.15"/>
@@ -954,19 +623,6 @@
 			<entity name="zombieBurnt" prob="0.45"/>
 			<entity name="zombieFarmer" prob="0.45"/>
 			<entity name="zombieStripper" prob="0.45"/>
-			<entity name="badZombieBoe_Rager" prob="0.45"/>
-			<entity name="badZombieJoe_Rager" prob="0.45"/>
-			<entity name="badZombieYo_Rager" prob="0.45"/>
-			<entity name="badZombieSteve_Rager" prob="0.45"/>
-			<entity name="badZombieArlene_Rager" prob="0.45"/>
-			<entity name="badZombieDarlene_Rager" prob="0.45"/>
-			<entity name="badZombieMarlene_Rager" prob="0.45"/>
-			<entity name="badZombieNurse_Rager" prob="0.45"/>
-			<entity name="badZombieMaleHazmat_Rager" prob="0.45"/>
-			<entity name="badZombieUtilityWorker_Rager" prob="0.45"/>
-			<entity name="badZombieSkateboarder_Rager" prob="0.45"/>
-			<entity name="badZombieCheerleader_Rager" prob="0.45"/>
-			<entity name="badZombieOldTimer_Rager" prob="0.45"/>
 			<entity name="badZombieJethro" prob="0.45"/>
 			<entity name="badZombieSeryph" prob="0.45"/>
 			<entity name="badZombieSeryphSnow" prob="0.45"/>
@@ -1015,133 +671,6 @@
 			<entity name="bkSanta" prob="0.55"/>
 			<entity name="sanZombieBodyBuilder" prob="0.55"/>
 			<entity name="sanZombieBanditJuggernaut" prob="0.55"/>
-			<entity name="badZombieAiden_Rager" prob="0.55"/>
-			<entity name="badZombieBob_Rager" prob="0.55"/>
-			<entity name="badZombieCaitlin_Rager" prob="0.55"/>
-			<entity name="badZombieCallie_Rager" prob="0.55"/>
-			<entity name="badZombieChang_Rager" prob="0.55"/>
-			<entity name="badZombieCharlotte_Rager" prob="0.55"/>
-			<entity name="badZombieClint_Rager" prob="0.55"/>
-			<entity name="badZombieEmma_Rager" prob="0.55"/>
-			<entity name="badZombieGabrielle_Rager" prob="0.55"/>
-			<entity name="badZombieGrace_Rager" prob="0.55"/>
-			<entity name="badZombieHank_Rager" prob="0.55"/>
-			<entity name="badZombieHelen_Rager" prob="0.55"/>
-			<entity name="badZombieHugh_Rager" prob="0.55"/>
-			<entity name="badZombieJack_Rager" prob="0.55"/>
-			<entity name="badZombieJeff_Rager" prob="0.55"/>
-			<entity name="badZombieJimmy_Rager" prob="0.55"/>
-			<entity name="badZombieJoel_Rager" prob="0.55"/>
-			<entity name="badZombieMaria_Rager" prob="0.55"/>
-			<entity name="badZombieMercura_Rager" prob="0.55"/>
-			<entity name="badZombieMiguel_Rager" prob="0.55"/>
-			<entity name="badZombieOfficeGirl_Rager" prob="0.55"/>
-			<entity name="badZombieRayah_Rager" prob="0.55"/>
-			<entity name="badZombieRekt_Rager" prob="0.55"/>
-			<entity name="badZombieVince_Rager" prob="0.55"/>
-			<entity name="badZombieWillie_Rager" prob="0.55"/>
-			<entity name="badZombieBaby_Rager" prob="0.55"/>
-			<entity name="valZombieClarice_Rager" prob="0.55"/>
-			<entity name="valZombieJane_Rager" prob="0.55"/>
-			<entity name="valZombieLibrarian_Rager" prob="0.55"/>
-			<entity name="valZombieSurvivorFemale_Rager" prob="0.55"/>
-			<entity name="valZombieVoodooFemale_Rager" prob="0.55"/>
-			<entity name="valZombieVoodooMale_Rager" prob="0.55"/>
-			<entity name="valZombieDan_Rager" prob="0.55"/>
-			<entity name="valZombieSurvivorMale_Rager" prob="0.55"/>
-			<entity name="valZombieKenny_Rager" prob="0.55"/>
-			<entity name="valZombieRavager_Rager" prob="0.55"/>
-			<entity name="valZombieNerd_Rager" prob="0.55"/>
-			<entity name="valZombieInmate_Rager" prob="0.55"/>
-			<entity name="valZombieInmateBlack_Rager" prob="0.55"/>
-			<entity name="valZombieChildFemale_Rager" prob="0.55"/>
-			<entity name="valZombieChildMale_Rager" prob="0.55"/>
-			<entity name="valZombieRanger_Rager" prob="0.55"/>
-			<entity name="valZombieScorchedRusher_Rager" prob="0.55"/>
-			<entity name="gupZombieMartha_Rager" prob="0.55"/>
-			<entity name="gupZombieSally_Rager" prob="0.55"/>
-			<entity name="gupZombieSunStroked_Rager" prob="0.55"/>
-			<entity name="sanZombiePunk_Rager" prob="0.55"/>
-			<entity name="sanZombieRioter_Rager" prob="0.55"/>
-			<entity name="sanZombieRocker_Rager" prob="0.55"/>
-			<entity name="sanZombieFemaleRocker_Rager" prob="0.55"/>
-			<entity name="sanZombieHermit_Rager" prob="0.55"/>
-			<entity name="sanZombieFrank_Rager" prob="0.55"/>
-			<entity name="sanZombieBikerChick_Rager" prob="0.55"/>
-			<entity name="sanZombieInfectedSurvivor_Rager" prob="0.55"/>
-			<entity name="sanZombieInfectedLady_Rager" prob="0.55"/>
-			<entity name="sanZombieNude_Rager" prob="0.55"/>
-			<entity name="sanZombiePrisoner_Rager" prob="0.55"/>
-			<entity name="sanZombieDriver_Rager" prob="0.55"/>
-			<entity name="sanZombieFiend_Rager" prob="0.55"/>
-			<entity name="sanZombieBanditSharpshooter_Rager" prob="0.55"/>
-			<entity name="sanZombieHunterSven_Rager" prob="0.55"/>
-			<entity name="sanZombiePsycho_Rager" prob="0.55"/>
-			<entity name="sanZombieKim_Rager" prob="0.55"/>
-			<entity name="sanZombieVagrant_Rager" prob="0.55"/>
-			<entity name="sanZombieBanditSavage_Rager" prob="0.55"/>
-			<entity name="sanZombieBanditSentry_Rager" prob="0.55"/>
-			<entity name="sanZombieMitchHazmat_Rager" prob="0.55"/>
-			<entity name="sanZombieMarkHazmat_Rager" prob="0.55"/>
-			<entity name="sanZombieClaireHazmat_Rager" prob="0.55"/>
-			<entity name="sanZombieSueHazmat_Rager" prob="0.55"/>
-			<entity name="sanZombieOldLady_Rager" prob="0.55"/>
-			<entity name="sanZombieOldMan_Rager" prob="0.55"/>
-			<entity name="sanZombieEvilGranny_Rager" prob="0.55"/>
-			<entity name="sanZombieSecurityGuard_Rager" prob="0.55"/>
-			<entity name="sanZombieFrozen_Rager" prob="0.55"/>
-			<entity name="zombieFemaleFatFeral" prob="0.25"/>
-			<entity name="zombieMoeFeral" prob="0.25"/>
-			<entity name="zombieSpiderFeral" prob="0.25"/>
-			<entity name="zombieFatHawaiian" prob="0.25"/>
-			<entity name="zombieFarmerFeral" prob="0.25"/>
-			<entity name="zombieStripperFeral" prob="0.25"/>
-			<entity name="badZombieMoe_Rager" prob="0.25"/>
-			<entity name="badZombieSnow_Rager" prob="0.25"/>
-			<entity name="badZombieSpider_Rager" prob="0.25"/>
-			<entity name="badZombieBurnt_Rager" prob="0.25"/>
-			<entity name="badZombieStripper_Rager" prob="0.25"/>
-			<entity name="badZombieFarmer_Rager" prob="0.25"/>
-			<entity name="badZombieMord" prob="0.25"/>
-			<entity name="sanZombieExperiment" prob="0.25"/>
-			<entity name="badZombieJethro_Rager" prob="0.25"/>
-			<entity name="badZombieSeryph_Rager" prob="0.25"/>
-			<entity name="badZombieSeryphSnow_Rager" prob="0.25"/>
-			<entity name="valZombieBigBitch_Rager" prob="0.25"/>
-			<entity name="valZombieLumberjack_Rager" prob="0.25"/>
-			<entity name="valZombieTrucker_Rager" prob="0.25"/>
-			<entity name="valZombieCharred_Rager" prob="0.25"/>
-			<entity name="sanZombieCpl_Rager" prob="0.25"/>
-			<entity name="sanZombieHunter_Rager" prob="0.25"/>
-			<entity name="sanZombieBanditKiller_Rager" prob="0.25"/>
-			<entity name="sanZombieBloodmoon_Rager" prob="0.25"/>
-			<entity name="sanZombieCannibalFemale_Rager" prob="0.25"/>
-			<entity name="sanZombieCannibalMale_Rager" prob="0.25"/>
-			<entity name="sanZombieFreak_Rager" prob="0.25"/>
-			<entity name="zombieSnowFeral" prob="0.1"/>
-			<entity name="zombieSoldierFeral" prob="0.1"/>
-			<entity name="badZombieSoldier_Rager" prob="0.1"/>
-			<entity name="badZombieBiker_Rager" prob="0.1"/>
-			<entity name="badZombieBabyBoomer" prob="0.1"/>
-			<entity name="valZombieRavagerSpider" prob="0.1"/>
-			<entity name="gupZombieClimber" prob="0.1"/>
-			<entity name="sanZombieClown" prob="0.1"/>
-			<entity name="badZombieBolivar_Rager" prob="0.1"/>
-			<entity name="badZombieCur_Rager" prob="0.1"/>
-			<entity name="badZombieSWATMale_Rager" prob="0.1"/>
-			<entity name="badZombieSWATFemale_Rager" prob="0.1"/>
-			<entity name="valZombieRaveReaper_Rager" prob="0.1"/>
-			<entity name="badZombieStripperMole_Rager" prob="0.1"/>
-			<entity name="valZombieRegen_Rager" prob="0.1"/>
-			<entity name="gupZombieBouncer_Rager" prob="0.1"/>
-			<entity name="gupZombieSnowQueen_Rager" prob="0.1"/>
-			<entity name="sanZombieTrailerPark_Rager" prob="0.1"/>
-			<entity name="sanZombieBanditRaider_Rager" prob="0.1"/>
-			<entity name="sanZombieReaper_Rager" prob="0.1"/>
-			<entity name="sanZombieBanditLooter_Rager" prob="0.1"/>
-			<entity name="bkSanta_Rager" prob="0.1"/>
-			<entity name="sanZombieBodyBuilder_Rager" prob="0.1"/>
-			<entity name="sanZombieBanditJuggernaut_Rager" prob="0.1"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesTierGroup04">
 			<entity name="zombieBoe" prob="0.1"/>
@@ -1244,19 +773,6 @@
 			<entity name="zombieBurnt" prob="0.35"/>
 			<entity name="zombieFarmer" prob="0.35"/>
 			<entity name="zombieStripper" prob="0.35"/>
-			<entity name="badZombieBoe_Rager" prob="0.35"/>
-			<entity name="badZombieJoe_Rager" prob="0.35"/>
-			<entity name="badZombieYo_Rager" prob="0.35"/>
-			<entity name="badZombieSteve_Rager" prob="0.35"/>
-			<entity name="badZombieArlene_Rager" prob="0.35"/>
-			<entity name="badZombieDarlene_Rager" prob="0.35"/>
-			<entity name="badZombieMarlene_Rager" prob="0.35"/>
-			<entity name="badZombieNurse_Rager" prob="0.35"/>
-			<entity name="badZombieMaleHazmat_Rager" prob="0.35"/>
-			<entity name="badZombieUtilityWorker_Rager" prob="0.35"/>
-			<entity name="badZombieSkateboarder_Rager" prob="0.35"/>
-			<entity name="badZombieCheerleader_Rager" prob="0.35"/>
-			<entity name="badZombieOldTimer_Rager" prob="0.35"/>
 			<entity name="badZombieJethro" prob="0.35"/>
 			<entity name="badZombieSeryph" prob="0.35"/>
 			<entity name="badZombieSeryphSnow" prob="0.35"/>
@@ -1305,149 +821,6 @@
 			<entity name="bkSanta" prob="0.50"/>
 			<entity name="sanZombieBodyBuilder" prob="0.50"/>
 			<entity name="sanZombieBanditJuggernaut" prob="0.50"/>
-			<entity name="badZombieAiden_Rager" prob="0.50"/>
-			<entity name="badZombieBob_Rager" prob="0.50"/>
-			<entity name="badZombieCaitlin_Rager" prob="0.50"/>
-			<entity name="badZombieCallie_Rager" prob="0.50"/>
-			<entity name="badZombieChang_Rager" prob="0.50"/>
-			<entity name="badZombieCharlotte_Rager" prob="0.50"/>
-			<entity name="badZombieClint_Rager" prob="0.50"/>
-			<entity name="badZombieEmma_Rager" prob="0.50"/>
-			<entity name="badZombieGabrielle_Rager" prob="0.50"/>
-			<entity name="badZombieGrace_Rager" prob="0.50"/>
-			<entity name="badZombieHank_Rager" prob="0.50"/>
-			<entity name="badZombieHelen_Rager" prob="0.50"/>
-			<entity name="badZombieHugh_Rager" prob="0.50"/>
-			<entity name="badZombieJack_Rager" prob="0.50"/>
-			<entity name="badZombieJeff_Rager" prob="0.50"/>
-			<entity name="badZombieJimmy_Rager" prob="0.50"/>
-			<entity name="badZombieJoel_Rager" prob="0.50"/>
-			<entity name="badZombieMaria_Rager" prob="0.50"/>
-			<entity name="badZombieMercura_Rager" prob="0.50"/>
-			<entity name="badZombieMiguel_Rager" prob="0.50"/>
-			<entity name="badZombieOfficeGirl_Rager" prob="0.50"/>
-			<entity name="badZombieRayah_Rager" prob="0.50"/>
-			<entity name="badZombieRekt_Rager" prob="0.50"/>
-			<entity name="badZombieVince_Rager" prob="0.50"/>
-			<entity name="badZombieWillie_Rager" prob="0.50"/>
-			<entity name="badZombieBaby_Rager" prob="0.50"/>
-			<entity name="valZombieClarice_Rager" prob="0.50"/>
-			<entity name="valZombieJane_Rager" prob="0.50"/>
-			<entity name="valZombieLibrarian_Rager" prob="0.50"/>
-			<entity name="valZombieSurvivorFemale_Rager" prob="0.50"/>
-			<entity name="valZombieVoodooFemale_Rager" prob="0.50"/>
-			<entity name="valZombieVoodooMale_Rager" prob="0.50"/>
-			<entity name="valZombieDan_Rager" prob="0.50"/>
-			<entity name="valZombieSurvivorMale_Rager" prob="0.50"/>
-			<entity name="valZombieKenny_Rager" prob="0.50"/>
-			<entity name="valZombieRavager_Rager" prob="0.50"/>
-			<entity name="valZombieNerd_Rager" prob="0.50"/>
-			<entity name="valZombieInmate_Rager" prob="0.50"/>
-			<entity name="valZombieInmateBlack_Rager" prob="0.50"/>
-			<entity name="valZombieChildFemale_Rager" prob="0.50"/>
-			<entity name="valZombieChildMale_Rager" prob="0.50"/>
-			<entity name="valZombieRanger_Rager" prob="0.50"/>
-			<entity name="valZombieScorchedRusher_Rager" prob="0.50"/>
-			<entity name="gupZombieMartha_Rager" prob="0.50"/>
-			<entity name="gupZombieSally_Rager" prob="0.50"/>
-			<entity name="gupZombieSunStroked_Rager" prob="0.50"/>
-			<entity name="sanZombiePunk_Rager" prob="0.50"/>
-			<entity name="sanZombieRioter_Rager" prob="0.50"/>
-			<entity name="sanZombieRocker_Rager" prob="0.50"/>
-			<entity name="sanZombieFemaleRocker_Rager" prob="0.50"/>
-			<entity name="sanZombieHermit_Rager" prob="0.50"/>
-			<entity name="sanZombieFrank_Rager" prob="0.50"/>
-			<entity name="sanZombieBikerChick_Rager" prob="0.50"/>
-			<entity name="sanZombieInfectedSurvivor_Rager" prob="0.50"/>
-			<entity name="sanZombieInfectedLady_Rager" prob="0.50"/>
-			<entity name="sanZombieNude_Rager" prob="0.50"/>
-			<entity name="sanZombiePrisoner_Rager" prob="0.50"/>
-			<entity name="sanZombieDriver_Rager" prob="0.50"/>
-			<entity name="sanZombieFiend_Rager" prob="0.50"/>
-			<entity name="sanZombieBanditSharpshooter_Rager" prob="0.50"/>
-			<entity name="sanZombieHunterSven_Rager" prob="0.50"/>
-			<entity name="sanZombiePsycho_Rager" prob="0.50"/>
-			<entity name="sanZombieKim_Rager" prob="0.50"/>
-			<entity name="sanZombieVagrant_Rager" prob="0.50"/>
-			<entity name="sanZombieBanditSavage_Rager" prob="0.50"/>
-			<entity name="sanZombieBanditSentry_Rager" prob="0.50"/>
-			<entity name="sanZombieMitchHazmat_Rager" prob="0.50"/>
-			<entity name="sanZombieMarkHazmat_Rager" prob="0.50"/>
-			<entity name="sanZombieClaireHazmat_Rager" prob="0.50"/>
-			<entity name="sanZombieSueHazmat_Rager" prob="0.50"/>
-			<entity name="sanZombieOldLady_Rager" prob="0.50"/>
-			<entity name="sanZombieOldMan_Rager" prob="0.50"/>
-			<entity name="sanZombieEvilGranny_Rager" prob="0.50"/>
-			<entity name="sanZombieSecurityGuard_Rager" prob="0.50"/>
-			<entity name="sanZombieFrozen_Rager" prob="0.50"/>
-			<entity name="zombieFemaleFatFeral" prob="0.40"/>
-			<entity name="zombieMoeFeral" prob="0.40"/>
-			<entity name="zombieSpiderFeral" prob="0.40"/>
-			<entity name="zombieFatHawaiian" prob="0.40"/>
-			<entity name="zombieFarmerFeral" prob="0.40"/>
-			<entity name="zombieStripperFeral" prob="0.40"/>
-			<entity name="badZombieMoe_Rager" prob="0.40"/>
-			<entity name="badZombieSnow_Rager" prob="0.40"/>
-			<entity name="badZombieSpider_Rager" prob="0.40"/>
-			<entity name="badZombieBurnt_Rager" prob="0.40"/>
-			<entity name="badZombieStripper_Rager" prob="0.40"/>
-			<entity name="badZombieFarmer_Rager" prob="0.40"/>
-			<entity name="badZombieMord" prob="0.40"/>
-			<entity name="sanZombieExperiment" prob="0.40"/>
-			<entity name="badZombieJethro_Rager" prob="0.40"/>
-			<entity name="badZombieSeryph_Rager" prob="0.40"/>
-			<entity name="badZombieSeryphSnow_Rager" prob="0.40"/>
-			<entity name="valZombieBigBitch_Rager" prob="0.40"/>
-			<entity name="valZombieLumberjack_Rager" prob="0.40"/>
-			<entity name="valZombieTrucker_Rager" prob="0.40"/>
-			<entity name="valZombieCharred_Rager" prob="0.40"/>
-			<entity name="sanZombieCpl_Rager" prob="0.40"/>
-			<entity name="sanZombieHunter_Rager" prob="0.40"/>
-			<entity name="sanZombieBanditKiller_Rager" prob="0.40"/>
-			<entity name="sanZombieBloodmoon_Rager" prob="0.40"/>
-			<entity name="sanZombieCannibalFemale_Rager" prob="0.40"/>
-			<entity name="sanZombieCannibalMale_Rager" prob="0.40"/>
-			<entity name="sanZombieFreak_Rager" prob="0.40"/>
-			<entity name="zombieSnowFeral" prob="0.15"/>
-			<entity name="zombieSoldierFeral" prob="0.15"/>
-			<entity name="badZombieSoldier_Rager" prob="0.15"/>
-			<entity name="badZombieBiker_Rager" prob="0.15"/>
-			<entity name="badZombieBabyBoomer" prob="0.15"/>
-			<entity name="valZombieRavagerSpider" prob="0.15"/>
-			<entity name="gupZombieClimber" prob="0.15"/>
-			<entity name="sanZombieClown" prob="0.15"/>
-			<entity name="badZombieBolivar_Rager" prob="0.15"/>
-			<entity name="badZombieCur_Rager" prob="0.15"/>
-			<entity name="badZombieSWATMale_Rager" prob="0.15"/>
-			<entity name="badZombieSWATFemale_Rager" prob="0.15"/>
-			<entity name="valZombieRaveReaper_Rager" prob="0.15"/>
-			<entity name="badZombieStripperMole_Rager" prob="0.15"/>
-			<entity name="valZombieRegen_Rager" prob="0.15"/>
-			<entity name="gupZombieBouncer_Rager" prob="0.15"/>
-			<entity name="gupZombieSnowQueen_Rager" prob="0.15"/>
-			<entity name="sanZombieTrailerPark_Rager" prob="0.15"/>
-			<entity name="sanZombieBanditRaider_Rager" prob="0.15"/>
-			<entity name="sanZombieReaper_Rager" prob="0.15"/>
-			<entity name="sanZombieBanditLooter_Rager" prob="0.15"/>
-			<entity name="bkSanta_Rager" prob="0.15"/>
-			<entity name="sanZombieBodyBuilder_Rager" prob="0.15"/>
-			<entity name="sanZombieBanditJuggernaut_Rager" prob="0.15"/>
-			<entity name="zombieFatHawaiianFeral" prob="0.1"/>
-			<entity name="zombieFatCop" prob="0.1"/>
-			<entity name="badZombieWarlord" prob="0.1"/>
-			<entity name="badZombieSuicideMole" prob="0.1"/>
-			<entity name="gupZombieBiff" prob="0.1"/>
-			<entity name="zombieWightFeral" prob="0.05"/>
-			<entity name="valZombieBrute" prob="0.05"/>
-			<entity name="valZombieBruteBoss" prob="0.05"/>
-			<entity name="badZombieBabyBoomer_Rager" prob="0.05"/>
-			<entity name="valZombieRavagerSpider_Rager" prob="0.05"/>
-			<entity name="gupZombieClimber_Rager" prob="0.05"/>
-			<entity name="sanZombieClown_Rager" prob="0.05"/>
-			<entity name="zombieFatCopFeral" prob="0.01"/>
-			<entity name="badZombieWarlord_Rager" prob="0.01"/>
-			<entity name="badZombieSuicideMole_Rager" prob="0.01"/>
-			<entity name="gupZombieBiff_Rager" prob="0.01"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesTierGroup05">
 			<entity name="zombieBoe" prob="0.05"/>
@@ -1550,19 +923,6 @@
 			<entity name="zombieBurnt" prob="0.15"/>
 			<entity name="zombieFarmer" prob="0.15"/>
 			<entity name="zombieStripper" prob="0.15"/>
-			<entity name="badZombieBoe_Rager" prob="0.15"/>
-			<entity name="badZombieJoe_Rager" prob="0.15"/>
-			<entity name="badZombieYo_Rager" prob="0.15"/>
-			<entity name="badZombieSteve_Rager" prob="0.15"/>
-			<entity name="badZombieArlene_Rager" prob="0.15"/>
-			<entity name="badZombieDarlene_Rager" prob="0.15"/>
-			<entity name="badZombieMarlene_Rager" prob="0.15"/>
-			<entity name="badZombieNurse_Rager" prob="0.15"/>
-			<entity name="badZombieMaleHazmat_Rager" prob="0.15"/>
-			<entity name="badZombieUtilityWorker_Rager" prob="0.15"/>
-			<entity name="badZombieSkateboarder_Rager" prob="0.15"/>
-			<entity name="badZombieCheerleader_Rager" prob="0.15"/>
-			<entity name="badZombieOldTimer_Rager" prob="0.15"/>
 			<entity name="badZombieJethro" prob="0.15"/>
 			<entity name="badZombieSeryph" prob="0.15"/>
 			<entity name="badZombieSeryphSnow" prob="0.15"/>
@@ -1611,151 +971,6 @@
 			<entity name="bkSanta" prob="0.50"/>
 			<entity name="sanZombieBodyBuilder" prob="0.50"/>
 			<entity name="sanZombieBanditJuggernaut" prob="0.50"/>
-			<entity name="badZombieAiden_Rager" prob="0.50"/>
-			<entity name="badZombieBob_Rager" prob="0.50"/>
-			<entity name="badZombieCaitlin_Rager" prob="0.50"/>
-			<entity name="badZombieCallie_Rager" prob="0.50"/>
-			<entity name="badZombieChang_Rager" prob="0.50"/>
-			<entity name="badZombieCharlotte_Rager" prob="0.50"/>
-			<entity name="badZombieClint_Rager" prob="0.50"/>
-			<entity name="badZombieEmma_Rager" prob="0.50"/>
-			<entity name="badZombieGabrielle_Rager" prob="0.50"/>
-			<entity name="badZombieGrace_Rager" prob="0.50"/>
-			<entity name="badZombieHank_Rager" prob="0.50"/>
-			<entity name="badZombieHelen_Rager" prob="0.50"/>
-			<entity name="badZombieHugh_Rager" prob="0.50"/>
-			<entity name="badZombieJack_Rager" prob="0.50"/>
-			<entity name="badZombieJeff_Rager" prob="0.50"/>
-			<entity name="badZombieJimmy_Rager" prob="0.50"/>
-			<entity name="badZombieJoel_Rager" prob="0.50"/>
-			<entity name="badZombieMaria_Rager" prob="0.50"/>
-			<entity name="badZombieMercura_Rager" prob="0.50"/>
-			<entity name="badZombieMiguel_Rager" prob="0.50"/>
-			<entity name="badZombieOfficeGirl_Rager" prob="0.50"/>
-			<entity name="badZombieRayah_Rager" prob="0.50"/>
-			<entity name="badZombieRekt_Rager" prob="0.50"/>
-			<entity name="badZombieVince_Rager" prob="0.50"/>
-			<entity name="badZombieWillie_Rager" prob="0.50"/>
-			<entity name="badZombieBaby_Rager" prob="0.50"/>
-			<entity name="valZombieClarice_Rager" prob="0.50"/>
-			<entity name="valZombieJane_Rager" prob="0.50"/>
-			<entity name="valZombieLibrarian_Rager" prob="0.50"/>
-			<entity name="valZombieSurvivorFemale_Rager" prob="0.50"/>
-			<entity name="valZombieVoodooFemale_Rager" prob="0.50"/>
-			<entity name="valZombieVoodooMale_Rager" prob="0.50"/>
-			<entity name="valZombieDan_Rager" prob="0.50"/>
-			<entity name="valZombieSurvivorMale_Rager" prob="0.50"/>
-			<entity name="valZombieKenny_Rager" prob="0.50"/>
-			<entity name="valZombieRavager_Rager" prob="0.50"/>
-			<entity name="valZombieNerd_Rager" prob="0.50"/>
-			<entity name="valZombieInmate_Rager" prob="0.50"/>
-			<entity name="valZombieInmateBlack_Rager" prob="0.50"/>
-			<entity name="valZombieChildFemale_Rager" prob="0.50"/>
-			<entity name="valZombieChildMale_Rager" prob="0.50"/>
-			<entity name="valZombieRanger_Rager" prob="0.50"/>
-			<entity name="valZombieScorchedRusher_Rager" prob="0.50"/>
-			<entity name="gupZombieMartha_Rager" prob="0.50"/>
-			<entity name="gupZombieSally_Rager" prob="0.50"/>
-			<entity name="gupZombieSunStroked_Rager" prob="0.50"/>
-			<entity name="sanZombiePunk_Rager" prob="0.50"/>
-			<entity name="sanZombieRioter_Rager" prob="0.50"/>
-			<entity name="sanZombieRocker_Rager" prob="0.50"/>
-			<entity name="sanZombieFemaleRocker_Rager" prob="0.50"/>
-			<entity name="sanZombieHermit_Rager" prob="0.50"/>
-			<entity name="sanZombieFrank_Rager" prob="0.50"/>
-			<entity name="sanZombieBikerChick_Rager" prob="0.50"/>
-			<entity name="sanZombieInfectedSurvivor_Rager" prob="0.50"/>
-			<entity name="sanZombieInfectedLady_Rager" prob="0.50"/>
-			<entity name="sanZombieNude_Rager" prob="0.50"/>
-			<entity name="sanZombiePrisoner_Rager" prob="0.50"/>
-			<entity name="sanZombieDriver_Rager" prob="0.50"/>
-			<entity name="sanZombieFiend_Rager" prob="0.50"/>
-			<entity name="sanZombieBanditSharpshooter_Rager" prob="0.50"/>
-			<entity name="sanZombieHunterSven_Rager" prob="0.50"/>
-			<entity name="sanZombiePsycho_Rager" prob="0.50"/>
-			<entity name="sanZombieKim_Rager" prob="0.50"/>
-			<entity name="sanZombieVagrant_Rager" prob="0.50"/>
-			<entity name="sanZombieBanditSavage_Rager" prob="0.50"/>
-			<entity name="sanZombieBanditSentry_Rager" prob="0.50"/>
-			<entity name="sanZombieMitchHazmat_Rager" prob="0.50"/>
-			<entity name="sanZombieMarkHazmat_Rager" prob="0.50"/>
-			<entity name="sanZombieClaireHazmat_Rager" prob="0.50"/>
-			<entity name="sanZombieSueHazmat_Rager" prob="0.50"/>
-			<entity name="sanZombieOldLady_Rager" prob="0.50"/>
-			<entity name="sanZombieOldMan_Rager" prob="0.50"/>
-			<entity name="sanZombieEvilGranny_Rager" prob="0.50"/>
-			<entity name="sanZombieSecurityGuard_Rager" prob="0.50"/>
-			<entity name="sanZombieFrozen_Rager" prob="0.50"/>
-			<entity name="zombieFemaleFatFeral" prob="0.50"/>
-			<entity name="zombieMoeFeral" prob="0.50"/>
-			<entity name="zombieSpiderFeral" prob="0.50"/>
-			<entity name="zombieFatHawaiian" prob="0.50"/>
-			<entity name="zombieFarmerFeral" prob="0.50"/>
-			<entity name="zombieStripperFeral" prob="0.50"/>
-			<entity name="badZombieMoe_Rager" prob="0.50"/>
-			<entity name="badZombieSnow_Rager" prob="0.50"/>
-			<entity name="badZombieSpider_Rager" prob="0.50"/>
-			<entity name="badZombieBurnt_Rager" prob="0.50"/>
-			<entity name="badZombieStripper_Rager" prob="0.50"/>
-			<entity name="badZombieFarmer_Rager" prob="0.50"/>
-			<entity name="badZombieMord" prob="0.50"/>
-			<entity name="sanZombieExperiment" prob="0.50"/>
-			<entity name="badZombieJethro_Rager" prob="0.50"/>
-			<entity name="badZombieSeryph_Rager" prob="0.50"/>
-			<entity name="badZombieSeryphSnow_Rager" prob="0.50"/>
-			<entity name="valZombieBigBitch_Rager" prob="0.50"/>
-			<entity name="valZombieLumberjack_Rager" prob="0.50"/>
-			<entity name="valZombieTrucker_Rager" prob="0.50"/>
-			<entity name="valZombieCharred_Rager" prob="0.50"/>
-			<entity name="sanZombieCpl_Rager" prob="0.50"/>
-			<entity name="sanZombieHunter_Rager" prob="0.50"/>
-			<entity name="sanZombieBanditKiller_Rager" prob="0.50"/>
-			<entity name="sanZombieBloodmoon_Rager" prob="0.50"/>
-			<entity name="sanZombieCannibalFemale_Rager" prob="0.50"/>
-			<entity name="sanZombieCannibalMale_Rager" prob="0.50"/>
-			<entity name="sanZombieFreak_Rager" prob="0.50"/>
-			<entity name="zombieSnowFeral" prob="0.35"/>
-			<entity name="zombieSoldierFeral" prob="0.35"/>
-			<entity name="badZombieSoldier_Rager" prob="0.35"/>
-			<entity name="badZombieBiker_Rager" prob="0.35"/>
-			<entity name="badZombieBabyBoomer" prob="0.35"/>
-			<entity name="valZombieRavagerSpider" prob="0.35"/>
-			<entity name="gupZombieClimber" prob="0.35"/>
-			<entity name="sanZombieClown" prob="0.35"/>
-			<entity name="badZombieBolivar_Rager" prob="0.35"/>
-			<entity name="badZombieCur_Rager" prob="0.35"/>
-			<entity name="badZombieSWATMale_Rager" prob="0.35"/>
-			<entity name="badZombieSWATFemale_Rager" prob="0.35"/>
-			<entity name="valZombieRaveReaper_Rager" prob="0.35"/>
-			<entity name="badZombieStripperMole_Rager" prob="0.35"/>
-			<entity name="valZombieRegen_Rager" prob="0.35"/>
-			<entity name="gupZombieBouncer_Rager" prob="0.35"/>
-			<entity name="gupZombieSnowQueen_Rager" prob="0.35"/>
-			<entity name="sanZombieTrailerPark_Rager" prob="0.35"/>
-			<entity name="sanZombieBanditRaider_Rager" prob="0.35"/>
-			<entity name="sanZombieReaper_Rager" prob="0.35"/>
-			<entity name="sanZombieBanditLooter_Rager" prob="0.35"/>
-			<entity name="bkSanta_Rager" prob="0.35"/>
-			<entity name="sanZombieBodyBuilder_Rager" prob="0.35"/>
-			<entity name="sanZombieBanditJuggernaut_Rager" prob="0.35"/>
-			<entity name="zombieFatHawaiianFeral" prob="0.2"/>
-			<entity name="zombieFatCop" prob="0.2"/>
-			<entity name="badZombieWarlord" prob="0.2"/>
-			<entity name="badZombieSuicideMole" prob="0.2"/>
-			<entity name="gupZombieBiff" prob="0.2"/>
-			<entity name="zombieWightFeral" prob="0.15"/>
-			<entity name="valZombieBrute" prob="0.15"/>
-			<entity name="valZombieBruteBoss" prob="0.15"/>
-			<entity name="badZombieBabyBoomer_Rager" prob="0.15"/>
-			<entity name="valZombieRavagerSpider_Rager" prob="0.15"/>
-			<entity name="gupZombieClimber_Rager" prob="0.15"/>
-			<entity name="sanZombieClown_Rager" prob="0.15"/>
-			<entity name="zombieFatCopFeral" prob="0.1"/>
-			<entity name="badZombieWarlord_Rager" prob="0.1"/>
-			<entity name="badZombieSuicideMole_Rager" prob="0.1"/>
-			<entity name="gupZombieBiff_Rager" prob="0.1"/>
-			<entity name="valZombieBrute_Rager" prob="0.1"/>
-			<entity name="valZombieBruteBoss_Rager" prob="0.1"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesTierGroup06">
 			<entity name="zombieBoe" prob="0.05"/>
@@ -1858,19 +1073,6 @@
 			<entity name="zombieBurnt" prob="0.15"/>
 			<entity name="zombieFarmer" prob="0.15"/>
 			<entity name="zombieStripper" prob="0.15"/>
-			<entity name="badZombieBoe_Rager" prob="0.15"/>
-			<entity name="badZombieJoe_Rager" prob="0.15"/>
-			<entity name="badZombieYo_Rager" prob="0.15"/>
-			<entity name="badZombieSteve_Rager" prob="0.15"/>
-			<entity name="badZombieArlene_Rager" prob="0.15"/>
-			<entity name="badZombieDarlene_Rager" prob="0.15"/>
-			<entity name="badZombieMarlene_Rager" prob="0.15"/>
-			<entity name="badZombieNurse_Rager" prob="0.15"/>
-			<entity name="badZombieMaleHazmat_Rager" prob="0.15"/>
-			<entity name="badZombieUtilityWorker_Rager" prob="0.15"/>
-			<entity name="badZombieSkateboarder_Rager" prob="0.15"/>
-			<entity name="badZombieCheerleader_Rager" prob="0.15"/>
-			<entity name="badZombieOldTimer_Rager" prob="0.15"/>
 			<entity name="badZombieJethro" prob="0.15"/>
 			<entity name="badZombieSeryph" prob="0.15"/>
 			<entity name="badZombieSeryphSnow" prob="0.15"/>
@@ -1919,151 +1121,6 @@
 			<entity name="bkSanta" prob="1.50"/>
 			<entity name="sanZombieBodyBuilder" prob="1.50"/>
 			<entity name="sanZombieBanditJuggernaut" prob="1.50"/>
-			<entity name="badZombieAiden_Rager" prob="1.50"/>
-			<entity name="badZombieBob_Rager" prob="1.50"/>
-			<entity name="badZombieCaitlin_Rager" prob="1.50"/>
-			<entity name="badZombieCallie_Rager" prob="1.50"/>
-			<entity name="badZombieChang_Rager" prob="1.50"/>
-			<entity name="badZombieCharlotte_Rager" prob="1.50"/>
-			<entity name="badZombieClint_Rager" prob="1.50"/>
-			<entity name="badZombieEmma_Rager" prob="1.50"/>
-			<entity name="badZombieGabrielle_Rager" prob="1.50"/>
-			<entity name="badZombieGrace_Rager" prob="1.50"/>
-			<entity name="badZombieHank_Rager" prob="1.50"/>
-			<entity name="badZombieHelen_Rager" prob="1.50"/>
-			<entity name="badZombieHugh_Rager" prob="1.50"/>
-			<entity name="badZombieJack_Rager" prob="1.50"/>
-			<entity name="badZombieJeff_Rager" prob="1.50"/>
-			<entity name="badZombieJimmy_Rager" prob="1.50"/>
-			<entity name="badZombieJoel_Rager" prob="1.50"/>
-			<entity name="badZombieMaria_Rager" prob="1.50"/>
-			<entity name="badZombieMercura_Rager" prob="1.50"/>
-			<entity name="badZombieMiguel_Rager" prob="1.50"/>
-			<entity name="badZombieOfficeGirl_Rager" prob="1.50"/>
-			<entity name="badZombieRayah_Rager" prob="1.50"/>
-			<entity name="badZombieRekt_Rager" prob="1.50"/>
-			<entity name="badZombieVince_Rager" prob="1.50"/>
-			<entity name="badZombieWillie_Rager" prob="1.50"/>
-			<entity name="badZombieBaby_Rager" prob="1.50"/>
-			<entity name="valZombieClarice_Rager" prob="1.50"/>
-			<entity name="valZombieJane_Rager" prob="1.50"/>
-			<entity name="valZombieLibrarian_Rager" prob="1.50"/>
-			<entity name="valZombieSurvivorFemale_Rager" prob="1.50"/>
-			<entity name="valZombieVoodooFemale_Rager" prob="1.50"/>
-			<entity name="valZombieVoodooMale_Rager" prob="1.50"/>
-			<entity name="valZombieDan_Rager" prob="1.50"/>
-			<entity name="valZombieSurvivorMale_Rager" prob="1.50"/>
-			<entity name="valZombieKenny_Rager" prob="1.50"/>
-			<entity name="valZombieRavager_Rager" prob="1.50"/>
-			<entity name="valZombieNerd_Rager" prob="1.50"/>
-			<entity name="valZombieInmate_Rager" prob="1.50"/>
-			<entity name="valZombieInmateBlack_Rager" prob="1.50"/>
-			<entity name="valZombieChildFemale_Rager" prob="1.50"/>
-			<entity name="valZombieChildMale_Rager" prob="1.50"/>
-			<entity name="valZombieRanger_Rager" prob="1.50"/>
-			<entity name="valZombieScorchedRusher_Rager" prob="1.50"/>
-			<entity name="gupZombieMartha_Rager" prob="1.50"/>
-			<entity name="gupZombieSally_Rager" prob="1.50"/>
-			<entity name="gupZombieSunStroked_Rager" prob="1.50"/>
-			<entity name="sanZombiePunk_Rager" prob="1.50"/>
-			<entity name="sanZombieRioter_Rager" prob="1.50"/>
-			<entity name="sanZombieRocker_Rager" prob="1.50"/>
-			<entity name="sanZombieFemaleRocker_Rager" prob="1.50"/>
-			<entity name="sanZombieHermit_Rager" prob="1.50"/>
-			<entity name="sanZombieFrank_Rager" prob="1.50"/>
-			<entity name="sanZombieBikerChick_Rager" prob="1.50"/>
-			<entity name="sanZombieInfectedSurvivor_Rager" prob="1.50"/>
-			<entity name="sanZombieInfectedLady_Rager" prob="1.50"/>
-			<entity name="sanZombieNude_Rager" prob="1.50"/>
-			<entity name="sanZombiePrisoner_Rager" prob="1.50"/>
-			<entity name="sanZombieDriver_Rager" prob="1.50"/>
-			<entity name="sanZombieFiend_Rager" prob="1.50"/>
-			<entity name="sanZombieBanditSharpshooter_Rager" prob="1.50"/>
-			<entity name="sanZombieHunterSven_Rager" prob="1.50"/>
-			<entity name="sanZombiePsycho_Rager" prob="1.50"/>
-			<entity name="sanZombieKim_Rager" prob="1.50"/>
-			<entity name="sanZombieVagrant_Rager" prob="1.50"/>
-			<entity name="sanZombieBanditSavage_Rager" prob="1.50"/>
-			<entity name="sanZombieBanditSentry_Rager" prob="1.50"/>
-			<entity name="sanZombieMitchHazmat_Rager" prob="1.50"/>
-			<entity name="sanZombieMarkHazmat_Rager" prob="1.50"/>
-			<entity name="sanZombieClaireHazmat_Rager" prob="1.50"/>
-			<entity name="sanZombieSueHazmat_Rager" prob="1.50"/>
-			<entity name="sanZombieOldLady_Rager" prob="1.50"/>
-			<entity name="sanZombieOldMan_Rager" prob="1.50"/>
-			<entity name="sanZombieEvilGranny_Rager" prob="1.50"/>
-			<entity name="sanZombieSecurityGuard_Rager" prob="1.50"/>
-			<entity name="sanZombieFrozen_Rager" prob="1.50"/>
-			<entity name="zombieFemaleFatFeral" prob="1.25"/>
-			<entity name="zombieMoeFeral" prob="1.25"/>
-			<entity name="zombieSpiderFeral" prob="1.25"/>
-			<entity name="zombieFatHawaiian" prob="1.25"/>
-			<entity name="zombieFarmerFeral" prob="1.25"/>
-			<entity name="zombieStripperFeral" prob="1.25"/>
-			<entity name="badZombieMoe_Rager" prob="1.25"/>
-			<entity name="badZombieSnow_Rager" prob="1.25"/>
-			<entity name="badZombieSpider_Rager" prob="1.25"/>
-			<entity name="badZombieBurnt_Rager" prob="1.25"/>
-			<entity name="badZombieStripper_Rager" prob="1.25"/>
-			<entity name="badZombieFarmer_Rager" prob="1.25"/>
-			<entity name="badZombieMord" prob="1.25"/>
-			<entity name="sanZombieExperiment" prob="1.25"/>
-			<entity name="badZombieJethro_Rager" prob="1.25"/>
-			<entity name="badZombieSeryph_Rager" prob="1.25"/>
-			<entity name="badZombieSeryphSnow_Rager" prob="1.25"/>
-			<entity name="valZombieBigBitch_Rager" prob="1.25"/>
-			<entity name="valZombieLumberjack_Rager" prob="1.25"/>
-			<entity name="valZombieTrucker_Rager" prob="1.25"/>
-			<entity name="valZombieCharred_Rager" prob="1.25"/>
-			<entity name="sanZombieCpl_Rager" prob="1.25"/>
-			<entity name="sanZombieHunter_Rager" prob="1.25"/>
-			<entity name="sanZombieBanditKiller_Rager" prob="1.25"/>
-			<entity name="sanZombieBloodmoon_Rager" prob="1.25"/>
-			<entity name="sanZombieCannibalFemale_Rager" prob="1.25"/>
-			<entity name="sanZombieCannibalMale_Rager" prob="1.25"/>
-			<entity name="sanZombieFreak_Rager" prob="1.25"/>
-			<entity name="zombieSnowFeral" prob="1.0"/>
-			<entity name="zombieSoldierFeral" prob="1.0"/>
-			<entity name="badZombieSoldier_Rager" prob="1.0"/>
-			<entity name="badZombieBiker_Rager" prob="1.0"/>
-			<entity name="badZombieBabyBoomer" prob="1.0"/>
-			<entity name="valZombieRavagerSpider" prob="1.0"/>
-			<entity name="gupZombieClimber" prob="1.0"/>
-			<entity name="sanZombieClown" prob="1.0"/>
-			<entity name="badZombieBolivar_Rager" prob="1.0"/>
-			<entity name="badZombieCur_Rager" prob="1.0"/>
-			<entity name="badZombieSWATMale_Rager" prob="1.0"/>
-			<entity name="badZombieSWATFemale_Rager" prob="1.0"/>
-			<entity name="valZombieRaveReaper_Rager" prob="1.0"/>
-			<entity name="badZombieStripperMole_Rager" prob="1.0"/>
-			<entity name="valZombieRegen_Rager" prob="1.0"/>
-			<entity name="gupZombieBouncer_Rager" prob="1.0"/>
-			<entity name="gupZombieSnowQueen_Rager" prob="1.0"/>
-			<entity name="sanZombieTrailerPark_Rager" prob="1.0"/>
-			<entity name="sanZombieBanditRaider_Rager" prob="1.0"/>
-			<entity name="sanZombieReaper_Rager" prob="1.0"/>
-			<entity name="sanZombieBanditLooter_Rager" prob="1.0"/>
-			<entity name="bkSanta_Rager" prob="1.0"/>
-			<entity name="sanZombieBodyBuilder_Rager" prob="1.0"/>
-			<entity name="sanZombieBanditJuggernaut_Rager" prob="1.0"/>
-			<entity name="zombieFatHawaiianFeral" prob="1.0"/>
-			<entity name="zombieFatCop" prob="1.0"/>
-			<entity name="badZombieWarlord" prob="1.0"/>
-			<entity name="badZombieSuicideMole" prob="1.0"/>
-			<entity name="gupZombieBiff" prob="1.0"/>
-			<entity name="zombieWightFeral" prob="1.0"/>
-			<entity name="valZombieBrute" prob="1.0"/>
-			<entity name="valZombieBruteBoss" prob="1.0"/>
-			<entity name="badZombieBabyBoomer_Rager" prob="1.0"/>
-			<entity name="valZombieRavagerSpider_Rager" prob="1.0"/>
-			<entity name="gupZombieClimber_Rager" prob="1.0"/>
-			<entity name="sanZombieClown_Rager" prob="1.0"/>
-			<entity name="zombieFatCopFeral" prob="0.75"/>
-			<entity name="badZombieWarlord_Rager" prob="0.75"/>
-			<entity name="badZombieSuicideMole_Rager" prob="0.75"/>
-			<entity name="gupZombieBiff_Rager" prob="0.75"/>
-			<entity name="valZombieBrute_Rager" prob="0.75"/>
-			<entity name="valZombieBruteBoss_Rager" prob="0.75"/>
 		  </entitygroup>
 		  <entitygroup name="ZombiesTierGroup07">
 			<entity name="zombieBoe" prob="0.05"/>
@@ -2166,19 +1223,6 @@
 			<entity name="zombieBurnt" prob="0.15"/>
 			<entity name="zombieFarmer" prob="0.15"/>
 			<entity name="zombieStripper" prob="0.15"/>
-			<entity name="badZombieBoe_Rager" prob="0.15"/>
-			<entity name="badZombieJoe_Rager" prob="0.15"/>
-			<entity name="badZombieYo_Rager" prob="0.15"/>
-			<entity name="badZombieSteve_Rager" prob="0.15"/>
-			<entity name="badZombieArlene_Rager" prob="0.15"/>
-			<entity name="badZombieDarlene_Rager" prob="0.15"/>
-			<entity name="badZombieMarlene_Rager" prob="0.15"/>
-			<entity name="badZombieNurse_Rager" prob="0.15"/>
-			<entity name="badZombieMaleHazmat_Rager" prob="0.15"/>
-			<entity name="badZombieUtilityWorker_Rager" prob="0.15"/>
-			<entity name="badZombieSkateboarder_Rager" prob="0.15"/>
-			<entity name="badZombieCheerleader_Rager" prob="0.15"/>
-			<entity name="badZombieOldTimer_Rager" prob="0.15"/>
 			<entity name="badZombieJethro" prob="0.15"/>
 			<entity name="badZombieSeryph" prob="0.15"/>
 			<entity name="badZombieSeryphSnow" prob="0.15"/>
@@ -2227,151 +1271,6 @@
 			<entity name="bkSanta" prob="1.5"/>
 			<entity name="sanZombieBodyBuilder" prob="1.5"/>
 			<entity name="sanZombieBanditJuggernaut" prob="1.5"/>
-			<entity name="badZombieAiden_Rager" prob="1.5"/>
-			<entity name="badZombieBob_Rager" prob="1.5"/>
-			<entity name="badZombieCaitlin_Rager" prob="1.5"/>
-			<entity name="badZombieCallie_Rager" prob="1.5"/>
-			<entity name="badZombieChang_Rager" prob="1.5"/>
-			<entity name="badZombieCharlotte_Rager" prob="1.5"/>
-			<entity name="badZombieClint_Rager" prob="1.5"/>
-			<entity name="badZombieEmma_Rager" prob="1.5"/>
-			<entity name="badZombieGabrielle_Rager" prob="1.5"/>
-			<entity name="badZombieGrace_Rager" prob="1.5"/>
-			<entity name="badZombieHank_Rager" prob="1.5"/>
-			<entity name="badZombieHelen_Rager" prob="1.5"/>
-			<entity name="badZombieHugh_Rager" prob="1.5"/>
-			<entity name="badZombieJack_Rager" prob="1.5"/>
-			<entity name="badZombieJeff_Rager" prob="1.5"/>
-			<entity name="badZombieJimmy_Rager" prob="1.5"/>
-			<entity name="badZombieJoel_Rager" prob="1.5"/>
-			<entity name="badZombieMaria_Rager" prob="1.5"/>
-			<entity name="badZombieMercura_Rager" prob="1.5"/>
-			<entity name="badZombieMiguel_Rager" prob="1.5"/>
-			<entity name="badZombieOfficeGirl_Rager" prob="1.5"/>
-			<entity name="badZombieRayah_Rager" prob="1.5"/>
-			<entity name="badZombieRekt_Rager" prob="1.5"/>
-			<entity name="badZombieVince_Rager" prob="1.5"/>
-			<entity name="badZombieWillie_Rager" prob="1.5"/>
-			<entity name="badZombieBaby_Rager" prob="1.5"/>
-			<entity name="valZombieClarice_Rager" prob="1.5"/>
-			<entity name="valZombieJane_Rager" prob="1.5"/>
-			<entity name="valZombieLibrarian_Rager" prob="1.5"/>
-			<entity name="valZombieSurvivorFemale_Rager" prob="1.5"/>
-			<entity name="valZombieVoodooFemale_Rager" prob="1.5"/>
-			<entity name="valZombieVoodooMale_Rager" prob="1.5"/>
-			<entity name="valZombieDan_Rager" prob="1.5"/>
-			<entity name="valZombieSurvivorMale_Rager" prob="1.5"/>
-			<entity name="valZombieKenny_Rager" prob="1.5"/>
-			<entity name="valZombieRavager_Rager" prob="1.5"/>
-			<entity name="valZombieNerd_Rager" prob="1.5"/>
-			<entity name="valZombieInmate_Rager" prob="1.5"/>
-			<entity name="valZombieInmateBlack_Rager" prob="1.5"/>
-			<entity name="valZombieChildFemale_Rager" prob="1.5"/>
-			<entity name="valZombieChildMale_Rager" prob="1.5"/>
-			<entity name="valZombieRanger_Rager" prob="1.5"/>
-			<entity name="valZombieScorchedRusher_Rager" prob="1.5"/>
-			<entity name="gupZombieMartha_Rager" prob="1.5"/>
-			<entity name="gupZombieSally_Rager" prob="1.5"/>
-			<entity name="gupZombieSunStroked_Rager" prob="1.5"/>
-			<entity name="sanZombiePunk_Rager" prob="1.5"/>
-			<entity name="sanZombieRioter_Rager" prob="1.5"/>
-			<entity name="sanZombieRocker_Rager" prob="1.5"/>
-			<entity name="sanZombieFemaleRocker_Rager" prob="1.5"/>
-			<entity name="sanZombieHermit_Rager" prob="1.5"/>
-			<entity name="sanZombieFrank_Rager" prob="1.5"/>
-			<entity name="sanZombieBikerChick_Rager" prob="1.5"/>
-			<entity name="sanZombieInfectedSurvivor_Rager" prob="1.5"/>
-			<entity name="sanZombieInfectedLady_Rager" prob="1.5"/>
-			<entity name="sanZombieNude_Rager" prob="1.5"/>
-			<entity name="sanZombiePrisoner_Rager" prob="1.5"/>
-			<entity name="sanZombieDriver_Rager" prob="1.5"/>
-			<entity name="sanZombieFiend_Rager" prob="1.5"/>
-			<entity name="sanZombieBanditSharpshooter_Rager" prob="1.5"/>
-			<entity name="sanZombieHunterSven_Rager" prob="1.5"/>
-			<entity name="sanZombiePsycho_Rager" prob="1.5"/>
-			<entity name="sanZombieKim_Rager" prob="1.5"/>
-			<entity name="sanZombieVagrant_Rager" prob="1.5"/>
-			<entity name="sanZombieBanditSavage_Rager" prob="1.5"/>
-			<entity name="sanZombieBanditSentry_Rager" prob="1.5"/>
-			<entity name="sanZombieMitchHazmat_Rager" prob="1.5"/>
-			<entity name="sanZombieMarkHazmat_Rager" prob="1.5"/>
-			<entity name="sanZombieClaireHazmat_Rager" prob="1.5"/>
-			<entity name="sanZombieSueHazmat_Rager" prob="1.5"/>
-			<entity name="sanZombieOldLady_Rager" prob="1.5"/>
-			<entity name="sanZombieOldMan_Rager" prob="1.5"/>
-			<entity name="sanZombieEvilGranny_Rager" prob="1.5"/>
-			<entity name="sanZombieSecurityGuard_Rager" prob="1.5"/>
-			<entity name="sanZombieFrozen_Rager" prob="1.5"/>
-			<entity name="zombieFemaleFatFeral" prob="1.5"/>
-			<entity name="zombieMoeFeral" prob="1.5"/>
-			<entity name="zombieSpiderFeral" prob="1.5"/>
-			<entity name="zombieFatHawaiian" prob="1.5"/>
-			<entity name="zombieFarmerFeral" prob="1.5"/>
-			<entity name="zombieStripperFeral" prob="1.5"/>
-			<entity name="badZombieMoe_Rager" prob="1.5"/>
-			<entity name="badZombieSnow_Rager" prob="1.5"/>
-			<entity name="badZombieSpider_Rager" prob="1.5"/>
-			<entity name="badZombieBurnt_Rager" prob="1.5"/>
-			<entity name="badZombieStripper_Rager" prob="1.5"/>
-			<entity name="badZombieFarmer_Rager" prob="1.5"/>
-			<entity name="badZombieMord" prob="1.5"/>
-			<entity name="sanZombieExperiment" prob="1.5"/>
-			<entity name="badZombieJethro_Rager" prob="1.5"/>
-			<entity name="badZombieSeryph_Rager" prob="1.5"/>
-			<entity name="badZombieSeryphSnow_Rager" prob="1.5"/>
-			<entity name="valZombieBigBitch_Rager" prob="1.5"/>
-			<entity name="valZombieLumberjack_Rager" prob="1.5"/>
-			<entity name="valZombieTrucker_Rager" prob="1.5"/>
-			<entity name="valZombieCharred_Rager" prob="1.5"/>
-			<entity name="sanZombieCpl_Rager" prob="1.5"/>
-			<entity name="sanZombieHunter_Rager" prob="1.5"/>
-			<entity name="sanZombieBanditKiller_Rager" prob="1.5"/>
-			<entity name="sanZombieBloodmoon_Rager" prob="1.5"/>
-			<entity name="sanZombieCannibalFemale_Rager" prob="1.5"/>
-			<entity name="sanZombieCannibalMale_Rager" prob="1.5"/>
-			<entity name="sanZombieFreak_Rager" prob="1.5"/>
-			<entity name="zombieSnowFeral" prob="1.5"/>
-			<entity name="zombieSoldierFeral" prob="1.5"/>
-			<entity name="badZombieSoldier_Rager" prob="1.5"/>
-			<entity name="badZombieBiker_Rager" prob="1.5"/>
-			<entity name="badZombieBabyBoomer" prob="1.5"/>
-			<entity name="valZombieRavagerSpider" prob="1.5"/>
-			<entity name="gupZombieClimber" prob="1.5"/>
-			<entity name="sanZombieClown" prob="1.5"/>
-			<entity name="badZombieBolivar_Rager" prob="1.5"/>
-			<entity name="badZombieCur_Rager" prob="1.5"/>
-			<entity name="badZombieSWATMale_Rager" prob="1.5"/>
-			<entity name="badZombieSWATFemale_Rager" prob="1.5"/>
-			<entity name="valZombieRaveReaper_Rager" prob="1.5"/>
-			<entity name="badZombieStripperMole_Rager" prob="1.5"/>
-			<entity name="valZombieRegen_Rager" prob="1.5"/>
-			<entity name="gupZombieBouncer_Rager" prob="1.5"/>
-			<entity name="gupZombieSnowQueen_Rager" prob="1.5"/>
-			<entity name="sanZombieTrailerPark_Rager" prob="1.5"/>
-			<entity name="sanZombieBanditRaider_Rager" prob="1.5"/>
-			<entity name="sanZombieReaper_Rager" prob="1.5"/>
-			<entity name="sanZombieBanditLooter_Rager" prob="1.5"/>
-			<entity name="bkSanta_Rager" prob="1.5"/>
-			<entity name="sanZombieBodyBuilder_Rager" prob="1.5"/>
-			<entity name="sanZombieBanditJuggernaut_Rager" prob="1.5"/>
-			<entity name="zombieFatHawaiianFeral" prob="2.0"/>
-			<entity name="zombieFatCop" prob="2.0"/>
-			<entity name="badZombieWarlord" prob="2.0"/>
-			<entity name="badZombieSuicideMole" prob="2.0"/>
-			<entity name="gupZombieBiff" prob="2.0"/>
-			<entity name="zombieWightFeral" prob="2.0"/>
-			<entity name="valZombieBrute" prob="2.0"/>
-			<entity name="valZombieBruteBoss" prob="2.0"/>
-			<entity name="badZombieBabyBoomer_Rager" prob="2.0"/>
-			<entity name="valZombieRavagerSpider_Rager" prob="2.0"/>
-			<entity name="gupZombieClimber_Rager" prob="2.0"/>
-			<entity name="sanZombieClown_Rager" prob="2.0"/>
-			<entity name="zombieFatCopFeral" prob="3.0"/>
-			<entity name="badZombieWarlord_Rager" prob="3.0"/>
-			<entity name="badZombieSuicideMole_Rager" prob="3.0"/>
-			<entity name="gupZombieBiff_Rager" prob="3.0"/>
-			<entity name="valZombieBrute_Rager" prob="5.0"/>
-			<entity name="valZombieBruteBoss_Rager" prob="5.0"/>
 		  </entitygroup>
 		  
 </append>

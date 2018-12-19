@@ -23,6 +23,8 @@
 			<property name="HasDeathAnim" value="false"/>
 			<!-- Thank You JaxTeller718 for the following line of code -->
             <property name="HasRagdoll" value="false"/>
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 		  </entity_class>
 		  <entity_class name="badZombieFemaleUMA" extends="badZombieUMA">
 			<property name="Archetype" value="ZombieFemaleUMA"/>
@@ -32,88 +34,146 @@
 			<property name="SoundHurt" value="Enemies/Base_Zombie_Female/zombiefemalepain"/>
 			<property name="SoundDeath" value="Enemies/Base_Zombie_Female/zombiefemaledeath"/>
 			<property name="SoundSense" value="Enemies/Base_Zombie_Female/zombiefemalesense"/>
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 		  </entity_class>
 		  <entity_class name="badZombieMaleUMA" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieMaleUMA"/>
 		  </entity_class>
 		  <entity_class name="badZombieAiden" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieAiden"/>
 		  </entity_class>
 		  <entity_class name="badZombieBob" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieBob"/>
 		  </entity_class>
 		  <entity_class name="badZombieCaitlin" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieCaitlin"/>
 		  </entity_class>
 		  <entity_class name="badZombieCallie" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieCallie"/>
 		  </entity_class>
 		  <entity_class name="badZombieChang" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieChang"/>
 		  </entity_class>
 		  <entity_class name="badZombieCharlotte" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieCharlotte"/>
 		  </entity_class>
 		  <entity_class name="badZombieClint" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieClint"/>
 		  </entity_class>
 		  <entity_class name="badZombieEmma" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieEmma"/>
 		  </entity_class>
 		  <entity_class name="badZombieGabrielle" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieGabrielle"/>
 		  </entity_class>
 		  <entity_class name="badZombieGrace" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieGrace"/>
 		  </entity_class>
 		  <entity_class name="badZombieHank" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieHank"/>
 		  </entity_class>
 		  <entity_class name="badZombieHelen" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieHelen"/>
 		  </entity_class>
 		  <entity_class name="badZombieHugh" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieHugh"/>
 		  </entity_class>
 		  <entity_class name="badZombieJack" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieJack"/>
 		  </entity_class>
 		  <entity_class name="badZombieJeff" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieJeff"/>
 		  </entity_class>
 		  <entity_class name="badZombieJimmy" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieJimmy"/>
 		  </entity_class>
 		  <entity_class name="badZombieJoel" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieJoel"/>
 		  </entity_class>
 		  <entity_class name="badZombieMaria" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieMaria"/>
 		  </entity_class>
 		  <entity_class name="badZombieMercura" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieMercura"/>
 		  </entity_class>
 		  <entity_class name="badZombieMiguel" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieMiguel"/>
 		  </entity_class>
 		  <entity_class name="badZombieOfficeGirl" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieOfficeGirl"/>
 			<property name="WalkType" value="3"/>
 			<property name="MaxHealth" value="100"/>
 		  </entity_class>
 		  <entity_class name="badZombieRayah" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieRayah"/>
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 		  </entity_class>
 		  <entity_class name="badZombieRekt" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieRekt"/>
 		  </entity_class>
 		  <entity_class name="badZombieVince" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieVince"/>
 		  </entity_class>
 		  <entity_class name="badZombieWillie" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieWillie"/>
 		  </entity_class>
 		  <entity_class name="badZombieBaby" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieBaby"/>
 			<property name="MaxHealth" value="60"/>
 			<property name="Class" value="EntityZombie"/>
@@ -125,85 +185,113 @@
 			<property name="SoundHurt" value="Enemies/Base_Zombie_Female/zombiefemalescoutpain"/>
 			<property name="SoundDeath" value="Enemies/Base_Zombie_Female/zombiefemalescoutdeath"/>
 			<property name="SoundSense" value="Enemies/Base_Zombie_Female/zombiefemalescoutsense"/>
-			<property name="WanderSpeed" value="0.08"/>
-			<property name="ApproachSpeed" value="0.45"/>
-			<property name="NightWanderSpeed" value="0.08"/>
-			<property name="NightApproachSpeed" value="0.55"/>
 		  </entity_class>
 		  <entity_class name="badZombieBabyCrawler" extends="badZombieBaby">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieBaby"/>
 			<property name="Class" value="EntityZombieCrawl"/>
 			<property name="WalkType" value="4"/>
 			<property name="RotateToGround" value="true"/>
-			<property name="WanderSpeed" value="0.08"/>
-			<property name="ApproachSpeed" value="0.15"/>
-			<property name="NightWanderSpeed" value="0.08"/>
-			<property name="NightApproachSpeed" value="0.25"/>
 		  </entity_class>
 		  <entity_class name="valZombieClarice" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieClarice"/>
 			<property name="WalkType" value="2" />
 		  </entity_class>
 		  <entity_class name="valZombieJane" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieJane"/>
 			<property name="WalkType" value="1" />
 		  </entity_class>
 		  <entity_class name="valZombieLibrarian" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieLibrarian"/>
 			<property name="WalkType" value="5" />
 		  </entity_class>
 		  <entity_class name="valZombieSurvivorFemale" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieSurvivorFemale"/>
 			<property name="WalkType" value="7" />
 		  </entity_class>
 		  <entity_class name="valZombieVoodooFemale" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieVoodooFemale"/>
 			<property name="WalkType" value="2" />
 		  </entity_class>
 		  <entity_class name="valZombieVoodooMale" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieVoodooMale"/>
 		  </entity_class>
 		  <entity_class name="valZombieDan" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieDan"/>
 		  </entity_class>
 		  <entity_class name="valZombieSurvivorMale" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieSurvivorMale"/>
 			<property name="WalkType" value="1" />
 		  </entity_class>
 		  <entity_class name="valZombieKenny" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieKenny"/>
 		  </entity_class>
 		  <entity_class name="valZombieRavager" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieRavager"/>
 			<property name="WalkType" value="5" />
 		  </entity_class>
 		  <entity_class name="valZombieNerd" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieNerd"/>
 			<property name="MaxHealth" value="80" />
 			<property name="WalkType" value="7" />
 		  </entity_class>
 		  <entity_class name="valZombieInmate" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieInmate"/>
 			<property name="WalkType" value="6" />
 		  </entity_class>
 		  <entity_class name="valZombieInmateBlack" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieInmateBlack"/>
 			<property name="WalkType" value="6" />
 		  </entity_class>
 		  <entity_class name="valZombieChildFemale" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieChildFemale"/>
 			<property name="MaxHealth" value="70" />
 			
 		  </entity_class>
 		  <entity_class name="valZombieChildMale" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieChildMale"/>
 			<property name="MaxHealth" value="70" />
 			
 		  </entity_class>
 		  <entity_class name="valZombieRanger" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieRanger"/>
 		  </entity_class>
 		  <entity_class name="valZombieScorchedRusher" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieCharred"/>
 	        <property name="HandItem" value="meleeHandZombieBurning"/>
 	        <property name="HandItemCrawler" value="meleeHandZombieBurningCrawler"/> 
@@ -218,18 +306,26 @@
 			<property name="MaxHealth" value="45"/>
 		  </entity_class>
 		  <entity_class name="gupZombieMartha" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieMartha"/>
 			<property name="WalkType" value="1"/>
 		  </entity_class>
 		  <entity_class name="gupZombieSally" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieSally"/>
 			<property name="WalkType" value="3"/>
 		  </entity_class>
 		  <entity_class name="gupZombieSunStroked" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieSunStroked"/>
 			<property name="WalkType" value="5"/>
 		  </entity_class>
 		  <entity_class name="gupZombieSunStrokedCrawler" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieSunStroked"/>
 			<property name="Class" value="EntityZombieCrawl"/>
 			<property name="WalkType" value="4"/>
@@ -237,127 +333,168 @@
 			<property name="RotateToGround" value="true"/>
 		  </entity_class>
 		  <entity_class name="sanZombiePunk" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombiePunk"/>
 		  </entity_class>
 		  <entity_class name="sanZombieRioter" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieRioter"/>
 		  </entity_class>
 		  <entity_class name="sanZombieRocker" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieRocker"/>
 		  </entity_class>
 		  <entity_class name="sanZombieFemaleRocker" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieFemaleRocker"/>
 		  </entity_class>
 		  <entity_class name="sanZombieHermit" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieHermit"/>
 		  </entity_class>
 		  <entity_class name="sanZombieFrank" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieFrank"/>
 		  </entity_class>
 		  <entity_class name="sanZombieBikerChick" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBikerChick"/>
 		  </entity_class>
 		  <entity_class name="sanZombieInfectedSurvivor" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieInfectedSurvivor"/>
 		  </entity_class>
 		  <entity_class name="sanZombieInfectedLady" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieInfectedLady"/>
 		  </entity_class>
 		  <entity_class name="sanZombieNude" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieNude"/>
 		  </entity_class>
 		  <entity_class name="sanZombiePrisoner" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombiePrisoner"/>
 		  </entity_class>
 		  <entity_class name="sanZombieDriver" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieDriver"/>
 		  </entity_class>
 		  <entity_class name="sanZombieFiend" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieFiend"/>
 		  </entity_class>
 		  <entity_class name="sanZombieBanditSharpshooter" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBanditSharpshooter"/>
 			<property name="WalkType" value="5"/>
 		  </entity_class>
 		  <entity_class name="sanZombieHunterSven" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieHunterSven"/>
 			<property name="WalkType" value="7"/>
 		  </entity_class>
 		  <entity_class name="sanZombiePsycho" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombiePsycho"/>
 			<property name="WalkType" value="1"/>
 		  </entity_class>
 		  <entity_class name="sanZombieKim" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieKim"/>
 		  </entity_class>
 		  <entity_class name="sanZombieVagrant" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieVagrant"/>
 			<property name="WalkType" value="1" />
 		  </entity_class>
 		  <entity_class name="sanZombieBanditSavage" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBanditSavage"/>
 			<property name="WalkType" value="1"/>
 		  </entity_class>
 		  <entity_class name="sanZombieBanditSentry" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBanditSentry"/>
 			<property name="WalkType" value="1"/>
 		  </entity_class>
 		  <entity_class name="sanZombieMitchHazmat" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieMitchHazmat"/>
 			<property name="HandItem" value="meleeHandZombieHazMat" />
 		  </entity_class>
 		  <entity_class name="sanZombieMarkHazmat" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieMarkHazmat"/>
 	        <property name="HandItem" value="meleeHandZombieHazMat"/>
 		  </entity_class>
 		  <entity_class name="sanZombieClaireHazmat" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieClaireHazmat"/>
 			<property name="HandItem" value="meleeHandZombieHazMat" />
 		  </entity_class>
 		  <entity_class name="sanZombieSueHazmat" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieSueHazmat"/>
 			<property name="HandItem" value="meleeHandZombieHazMat" />
 		  </entity_class>
 		  <entity_class name="sanZombieOldLady" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieOldLady"/>
-			<property name="MaxHealth" value="200" />
-			<property name="WanderSpeed" value="0.08" />
-			<property name="ApproachSpeed" value="0.15" />
-			<property name="NightWanderSpeed" value="0.08" />
-			<property name="NightApproachSpeed" value="0.15" />
-			<property name="PanicSpeed" value="0.2" />
 			<property name="WalkType" value="5" />
 		  </entity_class>
 		  <entity_class name="sanZombieOldMan" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieOldMan"/>
 			<property name="MaxHealth" value="200"/>
-			<property name="WanderSpeed" value="0.08"/>
-			<property name="ApproachSpeed" value="0.15"/>
-			<property name="NightWanderSpeed" value="0.02"/>
-			<property name="NightApproachSpeed" value="0.25"/>
 			<property name="WalkType" value="5"/>
 		  </entity_class>
 		  <entity_class name="sanZombieEvilGranny" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieEvilGranny"/>
 			<property name="WalkType" value="1"/>
-			<property name="WanderSpeed" value="0.2"/>
-			<property name="ApproachSpeed" value="0.55"/>
-			<property name="NightWanderSpeed" value="0.2"/>
-			<property name="NightApproachSpeed" value="0.55"/>
 		  </entity_class>
 		  <entity_class name="sanZombieSecurityGuard" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieSecurityGuard"/>
 			<property name="WalkType" value="7"/>
 		  </entity_class>
 		  <entity_class name="sanZombieFrozen" extends="badZombieFemaleUMA">
-			<property name="Archetype" value="sanZombieFrozen"/>
-			<property name="WanderSpeed" value="0.25"/>
-			<property name="ApproachSpeed" value="0.45"/>
-			<property name="NightWanderSpeed" value="0.35"/>
-			<property name="NightApproachSpeed" value="0.65"/>
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="SoundFootstepModifier" value="Enemies/Snow_Zombie_Male/zombiesnowfootstep"/>
 		  </entity_class>
 		  <entity_class name="badZombieJethro" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieJethro"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="300"/>
@@ -371,6 +508,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieSeryph" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieSeryph"/>
 			<property name="WalkType" value="6"/>
 			<property name="MaxHealth" value="100"/>
@@ -381,6 +520,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieSeryphSnow" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieSeryphSnow"/>
 			<property name="WalkType" value="2"/>
 			<property name="MaxHealth" value="250"/>
@@ -388,6 +529,8 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieBigBitch" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieBigBitch"/>
 			<property name="MaxHealth" value="200" />
 			<property name="WalkType" value="1" />
@@ -395,6 +538,8 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieLumberjack" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieLumberjack"/>
 			<property name="HandItem" value="meleeHandZombieCop" />
 			<property name="MaxHealth" value="300" />
@@ -409,6 +554,8 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieTrucker" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieTrucker"/>
 			<property name="MaxHealth" value="200" />
 			<property name="WalkType" value="1" />
@@ -416,6 +563,8 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieCharred" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieCharred"/>
 			<property name="HandItem" value="meleeHandZombieBurning" />
 			<property name="WalkType" value="7" />
@@ -430,12 +579,16 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieCpl" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieCpl"/>
 			<property name="MaxHealth" value="350" />
 			<property name="WalkType" value="5" />
 			
 		  </entity_class>
 		  <entity_class name="sanZombieHunter" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieHunter"/>
 			<property name="HandItem" value="meleeHandZombieCop" />
 			<property name="MaxHealth" value="300" />
@@ -443,6 +596,8 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieBanditKiller" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBanditKiller"/>
 			<property name="HandItem" value="meleeHandZombieWorker"/>
 			<property name="MaxHealth" value="350"/>
@@ -450,6 +605,8 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieBloodmoon" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBloodmoon"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="140"/>
@@ -459,18 +616,24 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieCannibalFemale" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieCannibalFemale"/>
 			<property name="MaxHealth" value="300"/>
 			<property name="WalkType" value="5"/>
 			
 		  </entity_class>
 		  <entity_class name="sanZombieCannibalMale" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieCannibalMale"/>
 			<property name="MaxHealth" value="300"/>
 			<property name="WalkType" value="7"/>
 			
 		  </entity_class>
 		  <entity_class name="sanZombieFreak" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieFreak"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 
@@ -479,6 +642,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieBolivar" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieBolivar"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="500"/>
@@ -487,6 +652,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieCur" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieCur"/>
 			<property name="WalkType" value="6"/>
 			<property name="AttackTimeoutDay" value="0.5"/>
@@ -495,12 +662,16 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieSWATMale" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieSWATMale"/>
 			<property name="MaxHealth" value="800"/>
 			<property name="WalkType" value="7"/>
 			
 		  </entity_class>
 		  <entity_class name="badZombieSWATFemale" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieSWATFemale"/>
 			<property name="MaxHealth" value="600"/>
 			<property name="WalkType" value="3"/>
@@ -511,6 +682,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieTallman" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieTallman"/>
 			<property name="MaxHealth" value="180"/>
 			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam"/>
@@ -522,11 +695,11 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieRaveReaper" extends="badZombieFemaleUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieRaveReaper"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="WalkType" value="2"/>
-			<property name="ApproachSpeed" value="1.0"/>
-			<property name="NightApproachSpeed" value="1.4"/>
 			<property name="SoundRandom" value="Enemies/Feral_Zombie/zombieferalroam"/>
 			<property name="SoundAlert" value="Enemies/Feral_Zombie/zombieferalalert"/>
 			<property name="SoundAttack" value="Enemies/Feral_Zombie/zombieferalattack"/>
@@ -538,6 +711,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieStripperMole" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieStripperMole"/>
 			<property name="HandItem" value="meleeHandZombieStripper"/>
 			<property name="MaxHealth" value="500"/>
@@ -545,6 +720,8 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieRegen" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieRegen"/>
 			<property name="MaxHealth" value="500"/>
 			<property name="WalkType" value="2"/>
@@ -558,12 +735,16 @@
 			
 		  </entity_class>
 		  <entity_class name="gupZombieBouncer" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieBouncer"/>
 			<property name="MaxHealth" value="800"/>
 			<property name="WalkType" value="2"/>
 			
 		  </entity_class>
 		  <entity_class name="gupZombieBouncerCrawler" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieBouncer"/>
 			<property name="Class" value="EntityZombieCrawl"/>
 			<property name="WalkType" value="4"/>
@@ -573,24 +754,32 @@
 			
 		  </entity_class>
 		  <entity_class name="gupZombieSnowQueen" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieSnowQueen"/>
 			<property name="MaxHealth" value="600"/>
 			<property name="WalkType" value="7"/>
 			
 		  </entity_class>
 		  <entity_class name="sanZombieTrailerPark" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieTrailerPark"/>
 			<property name="HandItem" value="meleeHandZombieWorker" />
 			<property name="MaxHealth" value="400" />
 			
 		  </entity_class>
 		  <entity_class name="sanZombieBanditRaider" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBanditRaider"/>
 			<property name="HandItem" value="meleeHandZombieWorker" />
 			<property name="MaxHealth" value="500" />
 			
 		  </entity_class>
 		  <entity_class name="sanZombieReaper" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieReaper"/>
 			<property name="HandItem" value="meleeHandZombieCop" />
 			<property name="MaxHealth" value="750" />
@@ -598,6 +787,8 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieBanditLooter" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBanditLooter"/>
 			<property name="HandItem" value="meleeHandZombieWorker" />
 			<property name="MaxHealth" value="400" />
@@ -605,6 +796,8 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieCrazed" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieCrazed"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="350"/>
@@ -615,17 +808,19 @@
 			<property name="SoundSense" value="Enemies/Feral_Zombie/zombieferalsense"/>
 			<property name="SoundFootstepModifier" value="Enemies/Feral_Zombie/zombieferalfootstep"/>
 			<property name="WalkType" value="8"/>
-			<property name="ApproachSpeed" value="1.35"/>
-			<property name="NightApproachSpeed" value="1.35"/>
 			
 		  </entity_class>
 		  <entity_class name="bkSanta" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="bkSanta"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="500"/>
 			
 		  </entity_class>
 		  <entity_class name="sanZombieBodyBuilder" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBodyBuilder"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="500"/>
@@ -633,17 +828,17 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieBanditJuggernaut" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieBanditJuggernaut"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="550"/>
 			<property name="WalkType" value="2"/>
-			<property name="WanderSpeed" value="0.1"/>
-			<property name="ApproachSpeed" value="0.35"/>
-			<property name="NightWanderSpeed" value="0.1"/>
-			<property name="NightApproachSpeed" value="0.45"/>
 			
 		  </entity_class>
 		  <entity_class name="badZombieMord" extends="badZombieFemaleUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieMord"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="750"/>
@@ -658,6 +853,8 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieExperiment" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieExperiment"/>
 			<property name="HandItem" value="meleeHandZombieCop" />
 			<property name="MaxHealth" value="500" />
@@ -672,6 +869,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieBabyBoomer" extends="badZombieBaby">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieBaby"/>
 			<property name="Class" value="EntityZombieCop"/>
 			<property name="MaxHealth" value="100"/>
@@ -688,6 +887,8 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieRavagerSpider" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieRavager"/>
 			<property name="MaxHealth" value="500"/>
 			<property name="CanClimbVertical" value="true"/>
@@ -706,6 +907,8 @@
 			
 		  </entity_class>
 		  <entity_class name="gupZombieClimber" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieClimber"/>
 			<property name="HandItem" value="meleeHandZombie02"/>
 			<property name="MaxHealth" value="800"/>
@@ -723,6 +926,8 @@
 			
 		  </entity_class>
 		  <entity_class name="sanZombieClown" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="sanZombieClown"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="1500"/>
@@ -730,6 +935,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieWarlord" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieWarlord"/>
 			<property name="Class" value="EntityZombieCop"/>
 			<property name="WalkType" value="1"/>
@@ -744,6 +951,8 @@
 			
 		  </entity_class>
 		  <entity_class name="badZombieSuicideMole" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="ZombieBomberMole"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="500"/>
@@ -759,6 +968,8 @@
 			
 		  </entity_class>
 		  <entity_class name="gupZombieBiff" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="gupZombieBiff"/>
 			<property name="WalkType" value="2"/>
 			<property name="MaxHealth" value="1200"/>
@@ -766,6 +977,8 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieBrute" extends="badZombieUMA" >
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieBrute"/>
 			<property name="HandItem" value="meleeHandZombieCop" />
 			<property name="MaxHealth" value="1500" />
@@ -775,6 +988,8 @@
 			
 		  </entity_class>
 		  <entity_class name="valZombieBruteBoss" extends="badZombieUMA">
+            <!-- Add the Tags so zombies can be run over -->
+	        <property name="Tags" value="zombie,walker"/>
 			<property name="Archetype" value="valZombieBrute"/>
 			<property name="HandItem" value="meleeHandZombieCop"/>
 			<property name="MaxHealth" value="3300"/>
@@ -798,412 +1013,6 @@
 			<property name="UpperArmDismemberThreshold" value="0"/>
 			
 		  </entity_class>
-		  <entity_class name="badZombieAiden_Rager" extends="badZombieAiden">
-			
-		  </entity_class>
-		  <entity_class name="badZombieBob_Rager" extends="badZombieBob">
-			
-		  </entity_class>
-		  <entity_class name="badZombieCaitlin_Rager" extends="badZombieCaitlin">
-			
-		  </entity_class>
-		  <entity_class name="badZombieCallie_Rager" extends="badZombieCallie">
-			
-		  </entity_class>
-		  <entity_class name="badZombieChang_Rager" extends="badZombieChang">
-			
-		  </entity_class>
-		  <entity_class name="badZombieCharlotte_Rager" extends="badZombieCharlotte">
-			
-		  </entity_class>
-		  <entity_class name="badZombieClint_Rager" extends="badZombieClint">
-			
-		  </entity_class>
-		  <entity_class name="badZombieEmma_Rager" extends="badZombieEmma">
-			
-		  </entity_class>
-		  <entity_class name="badZombieGabrielle_Rager" extends="badZombieGabrielle">
-			
-		  </entity_class>
-		  <entity_class name="badZombieGrace_Rager" extends="badZombieGrace">
-			
-		  </entity_class>
-		  <entity_class name="badZombieHank_Rager" extends="badZombieHank">
-			
-		  </entity_class>
-		  <entity_class name="badZombieHelen_Rager" extends="badZombieHelen">
-			
-		  </entity_class>
-		  <entity_class name="badZombieHugh_Rager" extends="badZombieHugh">
-			
-		  </entity_class>
-		  <entity_class name="badZombieJack_Rager" extends="badZombieJack">
-			
-		  </entity_class>
-		  <entity_class name="badZombieJeff_Rager" extends="badZombieJeff">
-			
-		  </entity_class>
-		  <entity_class name="badZombieJimmy_Rager" extends="badZombieJimmy">
-			
-		  </entity_class>
-		  <entity_class name="badZombieJoel_Rager" extends="badZombieJoel">
-			
-		  </entity_class>
-		  <entity_class name="badZombieMaria_Rager" extends="badZombieMaria">
-			
-		  </entity_class>
-		  <entity_class name="badZombieMercura_Rager" extends="badZombieMercura">
-			
-		  </entity_class>
-		  <entity_class name="badZombieMiguel_Rager" extends="badZombieMiguel">
-			
-		  </entity_class>
-		  <entity_class name="badZombieOfficeGirl_Rager" extends="badZombieOfficeGirl">
-			
-		  </entity_class>
-		  <entity_class name="badZombieRayah_Rager" extends="badZombieRayah">
-			
-		  </entity_class>
-		  <entity_class name="badZombieRekt_Rager" extends="badZombieRekt">
-			
-		  </entity_class>
-		  <entity_class name="badZombieVince_Rager" extends="badZombieVince">
-			
-		  </entity_class>
-		  <entity_class name="badZombieWillie_Rager" extends="badZombieWillie">
-			
-		  </entity_class>
-		  <entity_class name="badZombieBaby_Rager" extends="badZombieBaby">
-			
-		  </entity_class>
-		  <entity_class name="valZombieClarice_Rager" extends="valZombieClarice">
-			
-		  </entity_class>
-		  <entity_class name="valZombieJane_Rager" extends="valZombieJane">
-			
-		  </entity_class>
-		  <entity_class name="valZombieLibrarian_Rager" extends="valZombieLibrarian">
-			
-		  </entity_class>
-		  <entity_class name="valZombieSurvivorFemale_Rager" extends="valZombieSurvivorFemale">
-			
-		  </entity_class>
-		  <entity_class name="valZombieVoodooFemale_Rager" extends="valZombieVoodooFemale">
-			
-		  </entity_class>
-		  <entity_class name="valZombieVoodooMale_Rager" extends="valZombieVoodooMale">
-			
-		  </entity_class>
-		  <entity_class name="valZombieDan_Rager" extends="valZombieDan">
-			
-		  </entity_class>
-		  <entity_class name="valZombieSurvivorMale_Rager" extends="valZombieSurvivorMale">
-			
-		  </entity_class>
-		  <entity_class name="valZombieKenny_Rager" extends="valZombieKenny">
-			
-		  </entity_class>
-		  <entity_class name="valZombieRavager_Rager" extends="valZombieRavager">
-			
-		  </entity_class>
-		  <entity_class name="valZombieNerd_Rager" extends="valZombieNerd">
-			
-		  </entity_class>
-		  <entity_class name="valZombieInmate_Rager" extends="valZombieInmate">
-			
-		  </entity_class>
-		  <entity_class name="valZombieInmateBlack_Rager" extends="valZombieInmateBlack">
-			
-		  </entity_class>
-		  <entity_class name="valZombieChildFemale_Rager" extends="valZombieChildFemale">
-			
-		  </entity_class>
-		  <entity_class name="valZombieChildMale_Rager" extends="valZombieChildMale">
-			
-		  </entity_class>
-		  <entity_class name="valZombieRanger_Rager" extends="valZombieRanger">
-			
-		  </entity_class>
-		  <entity_class name="valZombieScorchedRusher_Rager" extends="valZombieScorchedRusher">
-			
-		  </entity_class>
-		  <entity_class name="gupZombieMartha_Rager" extends="gupZombieMartha">
-			
-		  </entity_class>
-		  <entity_class name="gupZombieSally_Rager" extends="gupZombieSally">
-			
-		  </entity_class>
-		  <entity_class name="gupZombieSunStroked_Rager" extends="gupZombieSunStroked">
-			
-		  </entity_class>
-		  <entity_class name="sanZombiePunk_Rager" extends="sanZombiePunk">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieRioter_Rager" extends="sanZombieRioter">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieRocker_Rager" extends="sanZombieRocker">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieFemaleRocker_Rager" extends="sanZombieFemaleRocker">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieHermit_Rager" extends="sanZombieHermit">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieFrank_Rager" extends="sanZombieFrank">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBikerChick_Rager" extends="sanZombieBikerChick">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieInfectedSurvivor_Rager" extends="sanZombieInfectedSurvivor">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieInfectedLady_Rager" extends="sanZombieInfectedLady">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieNude_Rager" extends="sanZombieNude">
-			
-		  </entity_class>
-		  <entity_class name="sanZombiePrisoner_Rager" extends="sanZombiePrisoner">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieDriver_Rager" extends="sanZombieDriver">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieFiend_Rager" extends="sanZombieFiend">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBanditSharpshooter_Rager" extends="sanZombieBanditSharpshooter">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieHunterSven_Rager" extends="sanZombieHunterSven">
-			
-		  </entity_class>
-		  <entity_class name="sanZombiePsycho_Rager" extends="sanZombiePsycho">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieKim_Rager" extends="sanZombieKim">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieVagrant_Rager" extends="sanZombieVagrant">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBanditSavage_Rager" extends="sanZombieBanditSavage">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBanditSentry_Rager" extends="sanZombieBanditSentry">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieMitchHazmat_Rager" extends="sanZombieMitchHazmat">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieMarkHazmat_Rager" extends="sanZombieMarkHazmat">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieClaireHazmat_Rager" extends="sanZombieClaireHazmat">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieSueHazmat_Rager" extends="sanZombieSueHazmat">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieOldLady_Rager" extends="sanZombieOldLady">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieOldMan_Rager" extends="sanZombieOldMan">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieEvilGranny_Rager" extends="sanZombieEvilGranny">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieSecurityGuard_Rager" extends="sanZombieSecurityGuard">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieFrozen_Rager" extends="sanZombieFrozen">
-			
-		  </entity_class>
-		  <entity_class name="badZombieJethro_Rager" extends="badZombieJethro">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSeryph_Rager" extends="badZombieSeryph">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSeryphSnow_Rager" extends="badZombieSeryphSnow">
-			
-		  </entity_class>
-		  <entity_class name="valZombieBigBitch_Rager" extends="valZombieBigBitch">
-			
-		  </entity_class>
-		  <entity_class name="valZombieLumberjack_Rager" extends="valZombieLumberjack">
-			
-		  </entity_class>
-		  <entity_class name="valZombieTrucker_Rager" extends="valZombieTrucker">
-			
-		  </entity_class>
-		  <entity_class name="valZombieCharred_Rager" extends="valZombieCharred">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieCpl_Rager" extends="sanZombieCpl">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieHunter_Rager" extends="sanZombieHunter">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBanditKiller_Rager" extends="sanZombieBanditKiller">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBloodmoon_Rager" extends="sanZombieBloodmoon">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieCannibalFemale_Rager" extends="sanZombieCannibalFemale">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieCannibalMale_Rager" extends="sanZombieCannibalMale">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieFreak_Rager" extends="sanZombieFreak">
-			
-		  </entity_class>
-		  <entity_class name="badZombieBolivar_Rager" extends="badZombieBolivar">
-			
-		  </entity_class>
-		  <entity_class name="badZombieCur_Rager" extends="badZombieCur">
-			
-		  </entity_class>
-		  <entity_class name="badZombieStripperMole_Rager" extends="badZombieStripperMole">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSWATMale_Rager" extends="badZombieSWATMale">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSWATFemale_Rager" extends="badZombieSWATFemale">
-			
-		  </entity_class>
-		  <entity_class name="valZombieRaveReaper_Rager" extends="valZombieRaveReaper">
-			
-		  </entity_class>
-		  <entity_class name="valZombieRegen_Rager" extends="valZombieRegen">
-			
-		  </entity_class>
-		  <entity_class name="gupZombieBouncer_Rager" extends="gupZombieBouncer">
-			
-		  </entity_class>
-		  <entity_class name="gupZombieSnowQueen_Rager" extends="gupZombieSnowQueen">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieTrailerPark_Rager" extends="sanZombieTrailerPark">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBanditRaider_Rager" extends="sanZombieBanditRaider">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieReaper_Rager" extends="sanZombieReaper">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBanditLooter_Rager" extends="sanZombieBanditLooter">
-			
-		  </entity_class>
-		  <entity_class name="bkSanta_Rager" extends="bkSanta">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBodyBuilder_Rager" extends="sanZombieBodyBuilder">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieBanditJuggernaut_Rager" extends="sanZombieBanditJuggernaut">
-			
-		  </entity_class>
-		  <entity_class name="sanZombieClown_Rager" extends="sanZombieClown">
-			
-		  </entity_class>
-		  <entity_class name="badZombieBabyBoomer_Rager" extends="badZombieBabyBoomer">
-			
-		  </entity_class>
-		  <entity_class name="valZombieRavagerSpider_Rager" extends="valZombieRavagerSpider">
-			
-		  </entity_class>
-		  <entity_class name="gupZombieClimber_Rager" extends="gupZombieClimber">
-			
-		  </entity_class>
-		  <entity_class name="badZombieWarlord_Rager" extends="badZombieWarlord">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSuicideMole_Rager" extends="badZombieSuicideMole">
-			
-		  </entity_class>
-		  <entity_class name="gupZombieBiff_Rager" extends="gupZombieBiff">
-			
-		  </entity_class>
-		  <entity_class name="valZombieBrute_Rager" extends="valZombieBrute">
-			
-		  </entity_class>
-		  <entity_class name="valZombieBruteBoss_Rager" extends="valZombieBruteBoss">
-			
-		  </entity_class>
-		  <entity_class name="badZombieBoe_Rager" extends="zombieBoe">
-			
-		  </entity_class>
-		  <entity_class name="badZombieJoe_Rager" extends="zombieJoe">
-			
-		  </entity_class>
-		  <entity_class name="badZombieYo_Rager" extends="zombieYo">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSteve_Rager" extends="zombieSteve">
-			
-		  </entity_class>
-		  <entity_class name="badZombieArlene_Rager" extends="zombieArlene">
-			
-		  </entity_class>
-		  <entity_class name="badZombieDarlene_Rager" extends="zombieDarlene">
-			
-		  </entity_class>
-		  <entity_class name="badZombieMarlene_Rager" extends="zombieMarlene">
-			
-		  </entity_class>
-		  <entity_class name="badZombieNurse_Rager" extends="zombieNurse">
-			
-		  </entity_class>
-		  <entity_class name="badZombieMaleHazmat_Rager" extends="zombieMaleHazmat">
-			
-		  </entity_class>
-		  <entity_class name="badZombieUtilityWorker_Rager" extends="zombieUtilityWorker">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSkateboarder_Rager" extends="zombieSkateboarder">
-			
-		  </entity_class>
-		  <entity_class name="badZombieCheerleader_Rager" extends="zombieCheerleader">
-			
-		  </entity_class>
-		  <entity_class name="badZombieOldTimer_Rager" extends="zombieOldTimer">
-			
-		  </entity_class>
-		  <entity_class name="badZombieMoe_Rager" extends="zombieMoe">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSnow_Rager" extends="zombieSnow">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSpider_Rager" extends="zombieSpider">
-			
-		  </entity_class>
-		  <entity_class name="badZombieBurnt_Rager" extends="zombieBurnt">
-			
-		  </entity_class>
-		  <entity_class name="badZombieFarmer_Rager" extends="zombieFarmer">
-			
-		  </entity_class>
-		  <entity_class name="badZombieStripper_Rager" extends="zombieStripper">
-			
-		  </entity_class>
-		  <entity_class name="badZombieSoldier_Rager" extends="zombieSoldier">
-			
-		  </entity_class>
-		  <entity_class name="badZombieBiker_Rager" extends="zombieBiker">
-			
-		  </entity_class>
-		  
 </append>
 
 
