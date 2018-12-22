@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Khelldon - Get Greener" />
+		<Description value="Removes Snow and Desert. Adds more Forest." />
+		<Author value="Khelldon" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
