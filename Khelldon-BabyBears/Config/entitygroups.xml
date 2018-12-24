@@ -8,9 +8,22 @@
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 
 <!-- find any place that calls to the bear and add a baby bear to the list -->
-<insertAfter xpath="/entitygroups/entitygroup/entity[@name='animalBear']" >
+<!-- <insertAfter xpath="/entitygroups/entitygroup/entity[@name='animalBear']" >
 		<entity name="khelldonAnimalBabyBear" prob="0.25"/>
-</insertAfter>
+</insertAfter> -->
+
+<!-- Add in bear group -->
+<append xpath="/entitygroups" >
+
+<entitygroup name="KheldonsBearsGroup">
+		<entity name="animalBear" prob="0.5"/>
+		<entity name="khelldonAnimalBabyBear" prob="3"/>
+</entitygroup>
+
+
+</append>
+
+
 
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
