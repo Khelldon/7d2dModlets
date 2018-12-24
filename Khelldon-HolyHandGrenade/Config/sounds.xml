@@ -15,7 +15,7 @@
 <!-- ######################################################### -->
 <!-- ######################################################### -->
 
-<append xpath="/sounds">
+<append xpath="/Sounds">
     <SoundDataNode name="khelldonHeavenVoice"> <AudioSource name="Sounds/AudioSource_Interact"/>
 	<AudioClip ClipName="#@modfolder:Resources/khelldonHolyHandGrenadeAudio.unity3d?khelldonHolyHandGrenade"/>
 	<LocalCrouchVolumeScale name="1.0"/> <CrouchNoiseScale name="0.5"/> <NoiseScale name="1"/> <MaxVoices name="3"/> <MaxRepeatRate name="0.01"/> </SoundDataNode>
