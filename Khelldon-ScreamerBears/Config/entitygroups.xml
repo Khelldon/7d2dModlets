@@ -9,7 +9,7 @@
 
 <!-- add bears to the screamer group -->
 <append xpath="/entitygroups/entitygroup[@name='ZombieScouts']" >
-		<entity name="animalBear"/>
+		<entity name="khelldonScreamerBear"/>
 </append>
 
 
