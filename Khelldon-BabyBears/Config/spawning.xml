@@ -17,7 +17,7 @@
 <!-- ######################################################### -->
 		
 <append xpath="/spawning/biome[@name='pine_forest' or @name='burnt_forest' or @name='snow']">
-		<spawn maxcount="4" respawndelay="12" time="Any" entitygroup="KheldonsBearsGroup" spawnDeadChance="0" />
+		<spawn maxcount="1" respawndelay="12" time="Any" entitygroup="KheldonsBearsGroup" spawnDeadChance="0" />
 </append>
 
 
