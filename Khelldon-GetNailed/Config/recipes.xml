@@ -49,6 +49,20 @@ updated: Longer Craft time
 </append>
 
 
+<!-- 
+Khelldon - Lets add a new recipe for a box of nails to get regular nails
+Idea by Guppycur
+-->
+
+<append xpath="/recipes">
+
+<recipe name="resourceNail" count="50">
+	<ingredient name="khelldonBoxNails" count="1"/>
+</recipe>
+
+</append>
+
+
 
 <!-- 
 Khelldon - Lets add a new recipe for the Crowbar
@@ -61,6 +75,10 @@ Khelldon - Lets add a new recipe for the Crowbar
 </recipe>
 
 </append>
+
+
+
+
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->

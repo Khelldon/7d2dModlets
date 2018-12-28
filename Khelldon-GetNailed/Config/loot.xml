@@ -28,6 +28,15 @@ Khelldon - Make sure the crowbar spawns in a few differnet places
 	<item name="khelldonCrowbar" prob="0.5"/>
 </append>
 
+<!--
+Khelldon - Add box of nails to working stiffs
+-->
+<append xpath="/lootcontainers/lootgroup[@name='workingStiffs']">
+	<item name="khelldonBoxNails"/>
+</append>
+<append xpath="/lootcontainers/lootcontainer[@id='15' or @id='34' or @id='88' or @id='92']">
+	<item name="khelldonBoxNails" prob="0.65"/>
+</append>
 
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
