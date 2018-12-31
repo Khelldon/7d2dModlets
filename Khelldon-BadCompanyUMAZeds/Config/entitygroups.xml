@@ -14,8 +14,30 @@
 <!-- Khelldon - Bad Company UMA Zombies -->
 <!-- ######################################################### -->
 <!-- ######################################################### -->
-<append xpath="/entitygroups">
-		  <entitygroup name="ZombiesTierGroup01">
+<append xpath="/entitygroups/entitygroup[
+@name='ZombiesAll' 
+or @name='ZombiesNight' 
+or @name='ZombiesWasteland' 
+or @name='ZombiesWastelandNight' 
+or @name='ZombiesWastelandNightNoBears' 
+or @name='ZombiesWastelandNight2' 
+or @name='ZombiesWastelandNight2NoBears' 
+or @name='ZombiesHoard' 
+or @name='SnowZombies' 
+or @name='ZombieFootballStadiumGroup' 
+or @name='ZombieGhostTownGroup' 
+or @name='HospitalGroup' 
+or @name='ZombiesBurntForest' 
+or @name='ZombiesFeral' 
+or @name='ZombieBadassGroup' 
+or @name='ZombieFeralRadiatedGroup' 
+or (contains(@name, 'wanderingHordeStage')) 
+or (contains(@name, 'sleeperHordeStage')) 
+or (contains(@name, 'badassHordeStage')) 
+or (contains(@name, 'badassOnlyHordeStage')) 
+or (contains(@name, 'scoutHordeStage')) 
+or (contains(@name, 'feralHordeStage')) 
+]">
 			<entity name="badZombieAiden"/>
 			<entity name="badZombieBob"/>
 			<entity name="badZombieCaitlin"/>
@@ -125,230 +147,6 @@
 			<entity name="bkSanta" prob="0.15"/>
 			<entity name="sanZombieBodyBuilder" prob="0.15"/>
 			<entity name="sanZombieBanditJuggernaut" prob="0.15"/>
-		  </entitygroup>
-		  <entitygroup name="ZombiesTierGroup02">
-			<entity name="badZombieAiden" prob="0.65"/>
-			<entity name="badZombieBob" prob="0.65"/>
-			<entity name="badZombieCaitlin" prob="0.65"/>
-			<entity name="badZombieCallie" prob="0.65"/>
-			<entity name="badZombieChang" prob="0.65"/>
-			<entity name="badZombieCharlotte" prob="0.65"/>
-			<entity name="badZombieClint" prob="0.65"/>
-			<entity name="badZombieEmma" prob="0.65"/>
-			<entity name="badZombieGabrielle" prob="0.65"/>
-			<entity name="badZombieGrace" prob="0.65"/>
-			<entity name="badZombieHank" prob="0.65"/>
-			<entity name="badZombieHelen" prob="0.65"/>
-			<entity name="badZombieHugh" prob="0.65"/>
-			<entity name="badZombieJack" prob="0.65"/>
-			<entity name="badZombieJeff" prob="0.65"/>
-			<entity name="badZombieJimmy" prob="0.65"/>
-			<entity name="badZombieJoel" prob="0.65"/>
-			<entity name="badZombieMaria" prob="0.65"/>
-			<entity name="badZombieMercura" prob="0.65"/>
-			<entity name="badZombieMiguel" prob="0.65"/>
-			<entity name="badZombieOfficeGirl" prob="0.65"/>
-			<entity name="badZombieRayah" prob="0.65"/>
-			<entity name="badZombieRekt" prob="0.65"/>
-			<entity name="badZombieVince" prob="0.65"/>
-			<entity name="badZombieWillie" prob="0.65"/>
-			<entity name="badZombieBaby" prob="0.65"/>
-			<entity name="badZombieBabyCrawler" prob="0.65"/>
-			<entity name="valZombieClarice" prob="0.65"/>
-			<entity name="valZombieJane" prob="0.65"/>
-			<entity name="valZombieLibrarian" prob="0.65"/>
-			<entity name="valZombieSurvivorFemale" prob="0.65"/>
-			<entity name="valZombieVoodooFemale" prob="0.65"/>
-			<entity name="valZombieVoodooMale" prob="0.65"/>
-			<entity name="valZombieDan" prob="0.65"/>
-			<entity name="valZombieSurvivorMale" prob="0.65"/>
-			<entity name="valZombieKenny" prob="0.65"/>
-			<entity name="valZombieRavager" prob="0.65"/>
-			<entity name="valZombieNerd" prob="0.65"/>
-			<entity name="valZombieInmate" prob="0.65"/>
-			<entity name="valZombieInmateBlack" prob="0.65"/>
-			<entity name="valZombieChildFemale" prob="0.65"/>
-			<entity name="valZombieChildMale" prob="0.65"/>
-			<entity name="valZombieRanger" prob="0.65"/>
-			<entity name="valZombieScorchedRusher" prob="0.65"/>
-			<entity name="gupZombieMartha" prob="0.65"/>
-			<entity name="gupZombieSally" prob="0.65"/>
-			<entity name="gupZombieSunStroked" prob="0.65"/>
-			<entity name="gupZombieSunStrokedCrawler" prob="0.65"/>
-			<entity name="sanZombiePunk" prob="0.65"/>
-			<entity name="sanZombieRioter" prob="0.65"/>
-			<entity name="sanZombieRocker" prob="0.65"/>
-			<entity name="sanZombieFemaleRocker" prob="0.65"/>
-			<entity name="sanZombieHermit" prob="0.65"/>
-			<entity name="sanZombieFrank" prob="0.65"/>
-			<entity name="sanZombieBikerChick" prob="0.65"/>
-			<entity name="sanZombieInfectedSurvivor" prob="0.65"/>
-			<entity name="sanZombieInfectedLady" prob="0.65"/>
-			<entity name="sanZombieNude" prob="0.65"/>
-			<entity name="sanZombiePrisoner" prob="0.65"/>
-			<entity name="sanZombieDriver" prob="0.65"/>
-			<entity name="sanZombieFiend" prob="0.65"/>
-			<entity name="sanZombieBanditSharpshooter" prob="0.65"/>
-			<entity name="sanZombieHunterSven" prob="0.65"/>
-			<entity name="sanZombiePsycho" prob="0.65"/>
-			<entity name="sanZombieKim" prob="0.65"/>
-			<entity name="sanZombieVagrant" prob="0.65"/>
-			<entity name="sanZombieBanditSavage" prob="0.65"/>
-			<entity name="sanZombieBanditSentry" prob="0.65"/>
-			<entity name="sanZombieMitchHazmat" prob="0.65"/>
-			<entity name="sanZombieMarkHazmat" prob="0.65"/>
-			<entity name="sanZombieClaireHazmat" prob="0.65"/>
-			<entity name="sanZombieSueHazmat" prob="0.65"/>
-			<entity name="sanZombieOldLady" prob="0.65"/>
-			<entity name="sanZombieOldMan" prob="0.65"/>
-			<entity name="sanZombieEvilGranny" prob="0.65"/>
-			<entity name="sanZombieSecurityGuard" prob="0.65"/>
-			<entity name="sanZombieFrozen" prob="0.65"/>
-			<entity name="badZombieJethro" prob="0.75"/>
-			<entity name="badZombieSeryph" prob="0.75"/>
-			<entity name="badZombieSeryphSnow" prob="0.75"/>
-			<entity name="valZombieBigBitch" prob="0.75"/>
-			<entity name="valZombieLumberjack" prob="0.75"/>
-			<entity name="valZombieTrucker" prob="0.75"/>
-			<entity name="valZombieCharred" prob="0.75"/>
-			<entity name="sanZombieCpl" prob="0.75"/>
-			<entity name="sanZombieHunter" prob="0.75"/>
-			<entity name="sanZombieBanditKiller" prob="0.75"/>
-			<entity name="sanZombieBloodmoon" prob="0.75"/>
-			<entity name="sanZombieCannibalFemale" prob="0.75"/>
-			<entity name="sanZombieCannibalMale" prob="0.75"/>
-			<entity name="sanZombieFreak" prob="0.75"/>
-			<entity name="badZombieBolivar" prob="0.35"/>
-			<entity name="badZombieCur" prob="0.35"/>
-			<entity name="badZombieSWATMale" prob="0.35"/>
-			<entity name="badZombieSWATFemale" prob="0.35"/>
-			<entity name="valZombieRaveReaper" prob="0.35"/>
-			<entity name="badZombieStripperMole" prob="0.35"/>
-			<entity name="valZombieRegen" prob="0.35"/>
-			<entity name="gupZombieBouncer" prob="0.35"/>
-			<entity name="gupZombieBouncerCrawler" prob="0.35"/>
-			<entity name="gupZombieSnowQueen" prob="0.35"/>
-			<entity name="sanZombieTrailerPark" prob="0.35"/>
-			<entity name="sanZombieBanditRaider" prob="0.35"/>
-			<entity name="sanZombieReaper" prob="0.35"/>
-			<entity name="sanZombieBanditLooter" prob="0.35"/>
-			<entity name="sanZombieCrazed" prob="0.35"/>
-			<entity name="bkSanta" prob="0.35"/>
-			<entity name="sanZombieBodyBuilder" prob="0.35"/>
-			<entity name="sanZombieBanditJuggernaut" prob="0.35"/>
-		  </entitygroup>
-		  <entitygroup name="ZombiesTierGroup03">
-			<entity name="badZombieAiden" prob="0.15"/>
-			<entity name="badZombieBob" prob="0.15"/>
-			<entity name="badZombieCaitlin" prob="0.15"/>
-			<entity name="badZombieCallie" prob="0.15"/>
-			<entity name="badZombieChang" prob="0.15"/>
-			<entity name="badZombieCharlotte" prob="0.15"/>
-			<entity name="badZombieClint" prob="0.15"/>
-			<entity name="badZombieEmma" prob="0.15"/>
-			<entity name="badZombieGabrielle" prob="0.15"/>
-			<entity name="badZombieGrace" prob="0.15"/>
-			<entity name="badZombieHank" prob="0.15"/>
-			<entity name="badZombieHelen" prob="0.15"/>
-			<entity name="badZombieHugh" prob="0.15"/>
-			<entity name="badZombieJack" prob="0.15"/>
-			<entity name="badZombieJeff" prob="0.15"/>
-			<entity name="badZombieJimmy" prob="0.15"/>
-			<entity name="badZombieJoel" prob="0.15"/>
-			<entity name="badZombieMaria" prob="0.15"/>
-			<entity name="badZombieMercura" prob="0.15"/>
-			<entity name="badZombieMiguel" prob="0.15"/>
-			<entity name="badZombieOfficeGirl" prob="0.15"/>
-			<entity name="badZombieRayah" prob="0.15"/>
-			<entity name="badZombieRekt" prob="0.15"/>
-			<entity name="badZombieVince" prob="0.15"/>
-			<entity name="badZombieWillie" prob="0.15"/>
-			<entity name="badZombieBaby" prob="0.15"/>
-			<entity name="badZombieBabyCrawler" prob="0.15"/>
-			<entity name="valZombieClarice" prob="0.15"/>
-			<entity name="valZombieJane" prob="0.15"/>
-			<entity name="valZombieLibrarian" prob="0.15"/>
-			<entity name="valZombieSurvivorFemale" prob="0.15"/>
-			<entity name="valZombieVoodooFemale" prob="0.15"/>
-			<entity name="valZombieVoodooMale" prob="0.15"/>
-			<entity name="valZombieDan" prob="0.15"/>
-			<entity name="valZombieSurvivorMale" prob="0.15"/>
-			<entity name="valZombieKenny" prob="0.15"/>
-			<entity name="valZombieRavager" prob="0.15"/>
-			<entity name="valZombieNerd" prob="0.15"/>
-			<entity name="valZombieInmate" prob="0.15"/>
-			<entity name="valZombieInmateBlack" prob="0.15"/>
-			<entity name="valZombieChildFemale" prob="0.15"/>
-			<entity name="valZombieChildMale" prob="0.15"/>
-			<entity name="valZombieRanger" prob="0.15"/>
-			<entity name="valZombieScorchedRusher" prob="0.15"/>
-			<entity name="gupZombieMartha" prob="0.15"/>
-			<entity name="gupZombieSally" prob="0.15"/>
-			<entity name="gupZombieSunStroked" prob="0.15"/>
-			<entity name="gupZombieSunStrokedCrawler" prob="0.15"/>
-			<entity name="sanZombiePunk" prob="0.15"/>
-			<entity name="sanZombieRioter" prob="0.15"/>
-			<entity name="sanZombieRocker" prob="0.15"/>
-			<entity name="sanZombieFemaleRocker" prob="0.15"/>
-			<entity name="sanZombieHermit" prob="0.15"/>
-			<entity name="sanZombieFrank" prob="0.15"/>
-			<entity name="sanZombieBikerChick" prob="0.15"/>
-			<entity name="sanZombieInfectedSurvivor" prob="0.15"/>
-			<entity name="sanZombieInfectedLady" prob="0.15"/>
-			<entity name="sanZombieNude" prob="0.15"/>
-			<entity name="sanZombiePrisoner" prob="0.15"/>
-			<entity name="sanZombieDriver" prob="0.15"/>
-			<entity name="sanZombieFiend" prob="0.15"/>
-			<entity name="sanZombieBanditSharpshooter" prob="0.15"/>
-			<entity name="sanZombieHunterSven" prob="0.15"/>
-			<entity name="sanZombiePsycho" prob="0.15"/>
-			<entity name="sanZombieKim" prob="0.15"/>
-			<entity name="sanZombieVagrant" prob="0.15"/>
-			<entity name="sanZombieBanditSavage" prob="0.15"/>
-			<entity name="sanZombieBanditSentry" prob="0.15"/>
-			<entity name="sanZombieMitchHazmat" prob="0.15"/>
-			<entity name="sanZombieMarkHazmat" prob="0.15"/>
-			<entity name="sanZombieClaireHazmat" prob="0.15"/>
-			<entity name="sanZombieSueHazmat" prob="0.15"/>
-			<entity name="sanZombieOldLady" prob="0.15"/>
-			<entity name="sanZombieOldMan" prob="0.15"/>
-			<entity name="sanZombieEvilGranny" prob="0.15"/>
-			<entity name="sanZombieSecurityGuard" prob="0.15"/>
-			<entity name="sanZombieFrozen" prob="0.15"/>
-			<entity name="badZombieJethro" prob="0.45"/>
-			<entity name="badZombieSeryph" prob="0.45"/>
-			<entity name="badZombieSeryphSnow" prob="0.45"/>
-			<entity name="valZombieBigBitch" prob="0.45"/>
-			<entity name="valZombieLumberjack" prob="0.45"/>
-			<entity name="valZombieTrucker" prob="0.45"/>
-			<entity name="valZombieCharred" prob="0.45"/>
-			<entity name="sanZombieCpl" prob="0.45"/>
-			<entity name="sanZombieHunter" prob="0.45"/>
-			<entity name="sanZombieBanditKiller" prob="0.45"/>
-			<entity name="sanZombieBloodmoon" prob="0.45"/>
-			<entity name="sanZombieCannibalFemale" prob="0.45"/>
-			<entity name="sanZombieCannibalMale" prob="0.45"/>
-			<entity name="sanZombieFreak" prob="0.45"/>
-			<entity name="badZombieBolivar" prob="0.55"/>
-			<entity name="badZombieCur" prob="0.55"/>
-			<entity name="badZombieSWATMale" prob="0.55"/>
-			<entity name="badZombieSWATFemale" prob="0.55"/>
-			<entity name="valZombieRaveReaper" prob="0.55"/>
-			<entity name="badZombieStripperMole" prob="0.55"/>
-			<entity name="valZombieRegen" prob="0.55"/>
-			<entity name="gupZombieBouncer" prob="0.55"/>
-			<entity name="gupZombieBouncerCrawler" prob="0.55"/>
-			<entity name="gupZombieSnowQueen" prob="0.55"/>
-			<entity name="sanZombieTrailerPark" prob="0.55"/>
-			<entity name="sanZombieBanditRaider" prob="0.55"/>
-			<entity name="sanZombieReaper" prob="0.55"/>
-			<entity name="sanZombieBanditLooter" prob="0.55"/>
-			<entity name="sanZombieCrazed" prob="0.55"/>
-			<entity name="bkSanta" prob="0.55"/>
-			<entity name="sanZombieBodyBuilder" prob="0.55"/>
-			<entity name="sanZombieBanditJuggernaut" prob="0.55"/>
-		  </entitygroup>
-		 
 </append>
 
 
